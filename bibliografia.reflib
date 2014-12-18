@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<manage_target braces="false" utf8="true">bibliografia.bib</manage_target>
+	<library_folder monitor="false"></library_folder>
+	<taglist>
+		<tag>
+			<uid>0</uid>
+			<name>Métricas</name>
+		</tag>
+		<tag>
+			<uid>1</uid>
+			<name>LCOM</name>
+		</tag>
+		<tag>
+			<uid>2</uid>
+			<name>Coesão</name>
+		</tag>
+		<tag>
+			<uid>3</uid>
+			<name>Inglês</name>
+		</tag>
+		<tag>
+			<uid>4</uid>
+			<name>Português</name>
+		</tag>
+		<tag>
+			<uid>5</uid>
+			<name>SLOC</name>
+		</tag>
+		<tag>
+			<uid>6</uid>
+			<name>Acoplamento</name>
+		</tag>
+		<tag>
+			<uid>7</uid>
+			<name>UFBA</name>
+		</tag>
+		<tag>
+			<uid>8</uid>
+			<name>UFRJ</name>
+		</tag>
+		<tag>
+			<uid>9</uid>
+			<name>PUCRJ</name>
+		</tag>
+		<tag>
+			<uid>10</uid>
+			<name>Monografia</name>
+		</tag>
+		<tag>
+			<uid>11</uid>
+			<name>Java</name>
+		</tag>
+		<tag>
+			<uid>12</uid>
+			<name>USP</name>
+		</tag>
+		<tag>
+			<uid>13</uid>
+			<name>IEEE</name>
+		</tag>
+		<tag>
+			<uid>14</uid>
+			<name>Bug</name>
+		</tag>
+		<tag>
+			<uid>15</uid>
+			<name>DSM</name>
+		</tag>
+		<tag>
+			<uid>16</uid>
+			<name>Mestrado</name>
+		</tag>
+		<tag>
+			<uid>17</uid>
+			<name>SoftViz</name>
+		</tag>
+	</taglist>
+	<doclist>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/Verificando as Leis de Crescimento Continuo e Complexidade Crescente - Terceiro.pdf</relative_filename>
+			<key>mata26-terceiro-projeto-piloto</key>
+			<notes></notes>
+			<tagged>4</tagged>
+			<tagged>5</tagged>
+			<tagged>6</tagged>
+			<tagged>7</tagged>
+			<bib_type>techreport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Verificando as Leis de Crescimento Contínuo e Complexidade Crescente em um projeto de software livre de pequeno porte</bib_title>
+			<bib_authors>Terceiro, Antonio A. S.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="address">Salvador-BA-Brasil</bib_extra>
+			<bib_extra key="institution">DCC/UFBA</bib_extra>
+			<bib_extra key="note">[Online; acessado 15 de Janeiro de 2009]</bib_extra>
+			<bib_extra key="Publisher">DCC/UFBA</bib_extra>
+			<bib_extra key="Url">http://disciplinas.dcc.ufba.br/pub/MATA26/TrabalhoTerceiro/mata26-terceiro-projeto-piloto.pdf</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/Introducao a Engenharia de Software Experimental.pdf</relative_filename>
+			<key>introducaoExperimentacao</key>
+			<notes></notes>
+			<tagged>4</tagged>
+			<tagged>8</tagged>
+			<bib_type>techreport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Introdução à Engenharia de Software Experimental</bib_title>
+			<bib_authors>Travassos, Guilherme Horta</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="address">RJ-Brasil</bib_extra>
+			<bib_extra key="institution">COPPE/UFRJ</bib_extra>
+			<bib_extra key="note">[Online; acessado 18 de Janeiro de 2009]</bib_extra>
+			<bib_extra key="Publisher">COPPE/UFRJ</bib_extra>
+			<bib_extra key="Url">http://sergio.dsc.upe.br/es/IntroducaoExperimentacao.pdf</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/Estudos Primários e Secundários apoiando a busca por Evidência em Engenharia de Software.pdf</relative_filename>
+			<key>estudoPorEvidenciaEngSoftware</key>
+			<notes></notes>
+			<tagged>4</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Estudos Primários e Secundários apoiando a busca por Evidência em Engenharia de Software</bib_title>
+			<bib_authors>Mafra, Sômulo Nogueira and Travassos, Guilherme Horta</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/Source versus Object Code Extraction for Recovering Software Architecture.pdf</relative_filename>
+			<key>sourceVersusObjectCodeExtraction</key>
+			<notes></notes>
+			<tagged>3</tagged>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Source versus Object Code Extraction For Recovering Software Architecture</bib_title>
+			<bib_authors>Hassan, Ahmed E. and Jiang, Zhen Ming and Holt, Richard C.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="booktitle">Proceedings of the 12th Working Conference on Reverse Engineering (WCRE’05)</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>livros/tecnicos/Engenharia de Software 6a-ed - Pressman.pdf</relative_filename>
+			<key>engenhariaDeSoftwarePressman</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Engenharia de Software</bib_title>
+			<bib_authors>Pressman, Roger S.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="edition">sexta</bib_extra>
+			<bib_extra key="publisher">Makron Books</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaC++</key>
+			<notes></notes>
+			<bib_type>manual</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>C++</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Institution">Wikimedia Foundation</bib_extra>
+			<bib_extra key="note">[Online; acessado 24 de Março de 2009]</bib_extra>
+			<bib_extra key="Url">http://pt.wikipedia.org/wiki/C++</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/Structural Complexity Evolution in Free Software Projects: A Case Study.pdf</relative_filename>
+			<key>structuralComplexityEvolution</key>
+			<notes></notes>
+			<tagged>3</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Structural Complexity Evolution in Free Software Projects: A Case Study</bib_title>
+			<bib_authors>Terceiro, Antonio and Chavez, Christina</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Institution">Computer Science Department – Universidade Federal da Bahia</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>engenhariaDeSoftwarePeters</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Engenharia de Software - Teoria e Prática</bib_title>
+			<bib_authors>Peters, James F. and Pedryez, Witold</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="edition">terceira</bib_extra>
+			<bib_extra key="publisher">Campus</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/On the Modularity of Aspect-Oriented Design: A Concern-Driven Measurement Approach - Santana.pdf</relative_filename>
+			<key>OntheModular</key>
+			<notes></notes>
+			<tagged>0</tagged>
+			<tagged>1</tagged>
+			<tagged>2</tagged>
+			<tagged>3</tagged>
+			<tagged>9</tagged>
+			<bib_type>phdthesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>On the Modularity of Aspect-Oriented Design: A Concern-Driven Measurement Approach</bib_title>
+			<bib_authors>Cláudio Nogueira Sant'Anna</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="address">Rio de Janeiro</bib_extra>
+			<bib_extra key="month">April</bib_extra>
+			<bib_extra key="school">Pontifícia Universidade Católica do Rio de Janeiro</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/outras monografias/ESTUDO E DESENVOLVIMENTO DE APLICACAO BIOMETRICA PARA AMBIENTE DE LARGA ESCALA - Amadeu.pdf</relative_filename>
+			<key>monografiaAmadeu</key>
+			<notes></notes>
+			<tagged>7</tagged>
+			<tagged>10</tagged>
+			<bib_type>techreport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>ESTUDO E DESENVOLVIMENTO DE APLICACAO BIOMETRICA PARA AMBIENTE DE LARGA ESCALA</bib_title>
+			<bib_authors>Amadeu Júnior</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="address">Salvador-Bahia</bib_extra>
+			<bib_extra key="institution">UFBA</bib_extra>
+			<bib_extra key="note">Acessado em 26 de Maio de 2009</bib_extra>
+			<bib_extra key="url">http://disciplinas.dcc.ufba.br/pub/MATA67/TrabalhosSemestre20071/monografiaAmadeu.pdf</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/outras monografias/Um estudo sobre o impacto do uso de desenvolvimento orientado por testes na melhoria da qualidade de software- Daniela Feitosa.pdf</relative_filename>
+			<key>monografiaDanielaFeitosa</key>
+			<notes></notes>
+			<tagged>7</tagged>
+			<tagged>4</tagged>
+			<tagged>10</tagged>
+			<bib_type>techreport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Um estudo sobre o impacto do uso de desenvolvimento orientado por testes na melhoria da qualidade de software- Daniela Feitosa</bib_title>
+			<bib_authors>Daniela Soares Feitosa</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="address">Salvador-Bahia</bib_extra>
+			<bib_extra key="institution">UFBA</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/Metrics and Laws of SW Evolution - Nineties View - Lehman.pdf</relative_filename>
+			<key>MetricsandLa</key>
+			<notes></notes>
+			<tagged>0</tagged>
+			<tagged>3</tagged>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Metrics and Laws of SW Evolution - Nineties View - Lehman</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/Observations on Lack of Cohesion Metrics - Sami and Ville.pdf</relative_filename>
+			<key>observationsOnLCOM</key>
+			<notes></notes>
+			<tagged>1</tagged>
+			<tagged>3</tagged>
+			<tagged>2</tagged>
+			<tagged>0</tagged>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Observations on Lack of Cohesion Metrics - Sami and Ville</bib_title>
+			<bib_authors>Sami Mäkelä and Ville Leppänen</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="booktitle">International Conference on Computer Systems and Technologies - CompSysTech’06</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/Principal Component Analysis of LCOM metrics - Anuradha and Timothy.pdf</relative_filename>
+			<key>principalComponentAnalysisOfLCOM</key>
+			<notes></notes>
+			<tagged>1</tagged>
+			<tagged>3</tagged>
+			<tagged>2</tagged>
+			<tagged>0</tagged>
+			<bib_type>techreport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Principal Component Analysis of LCOM metrics - Anuradha and Timothy</bib_title>
+			<bib_authors>Anuradha Lakshminarayana and Timothy S.Newman</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="institution">University of Alabama in Huntsville</bib_extra>
+			<bib_extra key="url">http://www.cs.uah.edu/tech-reports/TR-UAH-CS-1999-01.pdf</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/MEASURING COUPLING AND COHESION IN OBJECT-ORIENTED SYSTEMS - Hitz and Montazerri.pdf</relative_filename>
+			<key>measuringCouplingAndCohesion</key>
+			<notes></notes>
+			<tagged>2</tagged>
+			<tagged>6</tagged>
+			<tagged>0</tagged>
+			<tagged>1</tagged>
+			<tagged>3</tagged>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Measuring Coupling and Cohesion In Object-Oriented Systems</bib_title>
+			<bib_authors>Martin Hitz and Behzad Montazeri</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="address">Monterrey, Mexico</bib_extra>
+			<bib_extra key="booktitle">Symposium on Applied Corporate Computing</bib_extra>
+			<bib_extra key="institution">University of Vienna</bib_extra>
+			<bib_extra key="url">http://www.isys.uni-klu.ac.at/PDF/1995-0043-MHBM.pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>projectAnalyzerCohesionMetrics</key>
+			<notes></notes>
+			<tagged>1</tagged>
+			<tagged>3</tagged>
+			<tagged>0</tagged>
+			<bib_type>manual</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Project Metrics in Project Analyzer - Cohesion metrics</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year></bib_year>
+			<bib_extra key="organisation">Aivosto Oy</bib_extra>
+			<bib_extra key="url">http://www.aivosto.com/project/help/pm-oo-cohesion.html</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>monografia-ucsal-2009/A Critique of Cohesion Measures in the Object-Oriented Paradigm - Gupta.pdf</relative_filename>
+			<key>aCritiqueOfCohesion</key>
+			<notes></notes>
+			<bib_type>mastersthesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Critique of Cohesion Measures in the Object-Oriented Paradigm - Gupta</bib_title>
+			<bib_authors>Bindu S. Gupta</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="month">March</bib_extra>
+			<bib_extra key="school">Michigan Technological University</bib_extra>
+			<bib_extra key="url">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.3710&amp;rep=rep1&amp;type=pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>maintenanceMetricsObjectOriented</key>
+			<notes></notes>
+			<tagged>1</tagged>
+			<tagged>3</tagged>
+			<tagged>2</tagged>
+			<tagged>0</tagged>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Maintenance metrics for the object oriented paradigm</bib_title>
+			<bib_authors>Li, W. and Henry, S.</bib_authors>
+			<bib_journal>Software Metrics Symposium, 1993. Proceedings., First International</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>52-60</bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Abstract">Software metrics have been studied in the procedural paradigm as a quantitative means of assessing the software development process as well as the quality of software products. Several studies have validated that various metrics are useful indicators of maintenance effort in the procedural paradigm. However, software metrics have rarely been studied in the object oriented paradigm. Very few metrics have been proposed to measure object oriented systems, and the proposed ones have not been validated. This research concentrates on several object oriented software metrics and the validation of these metrics with maintenance effort in two commercial systems</bib_extra>
+			<bib_extra key="Citeulike-article-id">1002411</bib_extra>
+			<bib_extra key="Doi">10.1109/METRIC.1993.263801</bib_extra>
+			<bib_extra key="Keywords">maintenance, metrics, objectoriented</bib_extra>
+			<bib_extra key="Posted-at">2006-12-19 21:58:44</bib_extra>
+			<bib_extra key="Priority">2</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1109/METRIC.1993.263801</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Java/Cursos basicos de Java/caelum-java-objetos-fj11.pdf</relative_filename>
+			<key>caelum-java-objetos-fj11</key>
+			<notes></notes>
+			<tagged>11</tagged>
+			<bib_type>manual</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Curso FJ-11 Java e Orientação a Objeto</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="address">http://www.caelum.com.br/apostilas</bib_extra>
+			<bib_extra key="organisation">Calum</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>../../doc/analizo-article/dcoss2010.pdf</relative_filename>
+			<key>antonio_terceiro_dcoss_2010</key>
+			<notes></notes>
+			<tagged>0</tagged>
+			<tagged>3</tagged>
+			<tagged>7</tagged>
+			<tagged>12</tagged>
+			<bib_type>conference</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Developers’ Contribution to Structural Complexity in Free Software projects</bib_title>
+			<bib_authors>Antonio Terceiro</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../doc/analizo-article/Developers’ Contribution to Structural Complexity in Free Software projects - Terceiro.pdf</relative_filename>
+			<key>antonio_terceiro_phdthesisplan_2010</key>
+			<notes></notes>
+			<tagged>0</tagged>
+			<tagged>3</tagged>
+			<tagged>7</tagged>
+			<tagged>12</tagged>
+			<bib_type>phdthesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Developers’ Contribution to Structural Complexity in Free Software projects - Terceiro</bib_title>
+			<bib_authors>Antonio Terceiro</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="school">UFBA</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>../../doc/analizo-article/An Empirical Study on the Structural Complexity introduced by Core and Peripheral Developers in Free Software projects.pdf</relative_filename>
+			<key>terceiro_rios_chavez_2010</key>
+			<notes></notes>
+			<tagged>0</tagged>
+			<tagged>3</tagged>
+			<tagged>7</tagged>
+			<tagged>12</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An Empirical Study on the Structural Complexity introduced by Core and Peripheral Developers in Free Software projects</bib_title>
+			<bib_authors>Antonio Terceiro, Luiz Romúrio Rios and Christina Chavez</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/02_MineracaoRepositoriosSoftware/Data Mining for Software Engineering.pdf</relative_filename>
+			<key>DataMiningfo</key>
+			<notes></notes>
+			<tagged>13</tagged>
+			<tagged>3</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Data Mining for Software Engineering</bib_title>
+			<bib_authors>Tao Xie and Suresh Thummalapenta, David Lo, Chao Liu</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>8</bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/05_VisualizacaoSoftware/Polymetric Views A Lightweight Visual Approach to Reverse Engineering.pdf</relative_filename>
+			<key>PolymetricViews</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Polymetric Views A Lightweight Visual Approach to Reverse Engineering</bib_title>
+			<bib_authors>Michele Lanza, Stephane Ducasse</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>14</bib_pages>
+			<bib_year>2003</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/06_VisualizacaoEvolucao/CodeTimeline Storytelling with Versioning Data.pdf</relative_filename>
+			<key>CodeTimeline</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>CodeTimeline: Storytelling with Versioning Data</bib_title>
+			<bib_authors>Adrian Kuhn, Mirko Stocker</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>4</bib_pages>
+			<bib_year>2012</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/04_BugTrackingSystemsEvolucaoBugs/bettenburg-fse2008_What Makes a Good Bug Report.pdf</relative_filename>
+			<key>GoodBugReport</key>
+			<notes></notes>
+			<tagged>7</tagged>
+			<tagged>14</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>What Makes a Good Bug Report</bib_title>
+			<bib_authors>Nicolas Bettenburg; Sascha Just; Adrian Schröter; Cathrin Weiss; Rahul Premraj; Thomas Zimmermann</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>11</bib_pages>
+			<bib_year>2008</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/08_LocalizacaoConceitos/Concern Graphs Finding and Describing Concerns Using Structural Program Dependencies.pdf</relative_filename>
+			<key>ConcernGraphs</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Concern Graphs Finding and Describing Concerns Using Structural Program Dependencies</bib_title>
+			<bib_authors>Martin P. Robillard; Gail C. Murphy</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>11</bib_pages>
+			<bib_year>2002</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/15_UsabilidadeEvolucaoAPIs/icse11-An Empirical Investigation into the Role of API-Level Refactoring during Software Evolution.pdf</relative_filename>
+			<key>AnEmpiricalInvestigation</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An Empirical Investigation into the Role of API-Level Refactoring during Software Evolution</bib_title>
+			<bib_authors>Miryung Kim; Austin TX; Dongxiang Cai; Sunghun Kim</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>2011</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/An empirical study of static call graph extractors.pdf</relative_filename>
+			<key>CallGraphExtractors</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An empirical study of static call graph extractors</bib_title>
+			<bib_authors>Gail C. Murphy; David Notkin; Erica S.-C. Lan</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/ATT_Chava Reverse Engineering and Tracking of Java Applets.pdf</relative_filename>
+			<key>Chava</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Chava: Reverse Engineering and Tracking of Java Applets</bib_title>
+			<bib_authors>Jeffrey Korn; Yih-Farn Chen; Eleftherios Koutsofios</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>12</bib_pages>
+			<bib_year>1999</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/ATT_The C Information Abstraction System.pdf</relative_filename>
+			<key>TheCInformation</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The C Information Abstraction System</bib_title>
+			<bib_authors>Yih-Farn Chen; Michael Y. Nishimoto; C. V. Ramamoorthy</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>1990</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/Bauhaus A Tool Suite for Program Analysis and Reverse Engineering.pdf</relative_filename>
+			<key>Bauhaus</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Bauhaus - A Tool Suite for Program Analysis and Reverse Engineering</bib_title>
+			<bib_authors>Aoun Raza; Gunther Vogel; Erhard Pl'dereder</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>12</bib_pages>
+			<bib_year>2005</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/Evaluating architectural extractors.pdf</relative_filename>
+			<key>EvaluatingArchitectural</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Evaluating architectural extractors</bib_title>
+			<bib_authors>M. N. Armstrong; C. Trudeau</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>1998</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/monografia-ucsal-2009/Extracao de Informacoes de Dependencia entre Modulos de Programas C_Cpp.pdf</relative_filename>
+			<key>ExtracaoDeDependencias</key>
+			<notes></notes>
+			<tagged>10</tagged>
+			<tagged>4</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Extracao de Informacoes de Dependencia entre Modulos de Programas C/C++</bib_title>
+			<bib_authors>Joenio Costa</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>45</bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/Projeto/Papers/Modelo de Saída de Extrator de Design/artigo_wmswm2009_final.pdf</relative_filename>
+			<key>DesignSuite</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Design Suite: Towards an Open Scientific Investigation Environment for Software Architecture Recovery</bib_title>
+			<bib_authors>Roberto Almeida Bittencourt; Jemerson Figueiredo Damásio; Gustavo Jansen de Souza Santos; Adauto Trigueiro de Almeida Filho; José Martins da Nóbrega Filho; Jorge César Abrantes de Figueiredo; Dalton Dario Serey Guerrero</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>8</bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/10_Refatoracao/How We Refactor and How We Know It.pdf</relative_filename>
+			<key>HowWeRefactor</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>How We Refactor and How We Know It</bib_title>
+			<bib_authors>Emerson Murphy-Hill; Chris Parnin; Andrew P. Black</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>11</bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/09_AnaliseImpactoMudanca/An Empirical Comparison of Dynamic Impact Analysis Algorithms.pdf</relative_filename>
+			<key>DynamicImpactAnalysis</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An Empirical Comparison of Dynamic Impact Analysis Algorithms</bib_title>
+			<bib_authors>Alessandro Orso; Taweesup Apiwattanapong; James Law; Gregg Rothermel; Mary Jean Harrold</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>2004</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/11_CompreensaoProgramas/How Effective Developers Investigate Source Code An Exploratory Study.pdf</relative_filename>
+			<key>HowEffectiveDevelopers</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>How Effective Developers Investigate Source Code An Exploratory Study</bib_title>
+			<bib_authors>Martin P. Robillard; Wesley Coelho; Gail C. Murphy</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>15</bib_pages>
+			<bib_year>2004</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/20_DesignRulesDSMsEvolucao/Exploring the structure of complex software designs An empirical study of open source and proprietary code.pdf</relative_filename>
+			<key>ExploringStructure</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Exploring the structure of complex software designs An empirical study of open source and proprietary code</bib_title>
+			<bib_authors>Alan MacCormack; John Rusnak; Carliss Baldwin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>40</bib_pages>
+			<bib_year>2004</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/A Model-Based Method for Organizing Tasks in Product Development.pdf</relative_filename>
+			<key>AModelBasedMethod</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Model-Based Method for Organizing Tasks in Product Development</bib_title>
+			<bib_authors>Steven D. Eppinger; Daniel E. Whitney; Robert P. Smith; David A. Gebala</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>21</bib_pages>
+			<bib_year>1994</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/Metricas/Metrics Identification for Measuring Object Oriented Software Quality.pdf</relative_filename>
+			<key>MetricsIdentification</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Metrics Identification for Measuring Object Oriented Software Quality</bib_title>
+			<bib_authors>Aman Kumar Sharma; Arvind Kalia; Hardeep Singh</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>4</bib_pages>
+			<bib_year>2012</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Antares DSM: Visualização e Otimização de Dependências em Design Structures Matrices.pdf</relative_filename>
+			<key>AntaresDSM</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Antares DSM: Visualização e Otimização de Dependências em Design Structures Matrices</bib_title>
+			<bib_authors>Antonio de Almeida Souza Neto</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>50</bib_pages>
+			<bib_year>2008</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/Grafos/REACHABILITY MATRICES AND CYCLIC MATRICES.pdf</relative_filename>
+			<key>ReachabilityMatrices</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Reachability Matrices and Cyclic Matrices</bib_title>
+			<bib_authors>Augusto Ferrante; Harald K. Wimmer</bib_authors>
+			<bib_journal>Electronic Journal of Linear Algebra</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>8</bib_pages>
+			<bib_year>2010</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaLinux</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Linux (núcleo)</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Institution">Wikimedia Foundation</bib_extra>
+			<bib_extra key="note">[Online; acessado 17 Abril de 2013]</bib_extra>
+			<bib_extra key="url">http://pt.wikipedia.org/wiki/Linux_(núcleo)</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/analizo-cbsoft2010-tools.pdf</relative_filename>
+			<key>Analizo</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Analizo: an Extensible Multi-Language Source Code Analysis and Visualization Toolkit</bib_title>
+			<bib_authors>Antonio Terceiro; Joenio Costa; Joao Miranda; Paulo Meirelles; Luiz Romario Rios; Lucianna Almeida; Christina Chavez; Fabio Kon</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>6</bib_pages>
+			<bib_year>2010</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/12_RecuperacaoArquitetural/Secrets from the Monster Extracting Mozilla's Software Architecture.pdf</relative_filename>
+			<key>SecretsFromMonster</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Secrets from the Monster Extracting Mozilla's Software Architecture</bib_title>
+			<bib_authors>Michael W. Godfrey; Eric H. S. Lee</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>9</bib_pages>
+			<bib_year>2000</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Dependency Models to Manage Software Architecture.pdf</relative_filename>
+			<key>DependencyModel</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Dependency Models to Manage Software Architecture</bib_title>
+			<bib_authors>Neeraj Sangal; Frank Waldman</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>5</bib_pages>
+			<bib_year>2005</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/A Knowledge-Based Tool for Multilevel Decomposition of a Complex Design Problem.pdf</relative_filename>
+			<key>AKnowledgeBased</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Knowledge-Based Tool for Multilevel Decomposition of a Complex Design Problem</bib_title>
+			<bib_authors>James L. Rogers</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>22</bib_pages>
+			<bib_year>1989</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Analyzing the Evolution of Large-Scale Software Systems using Design Structure Matrices and Design Rule Theory Two Exploratory Cases.pdf</relative_filename>
+			<key>AnalyzingTheEvolution</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi>10.1109/WICSA.2008.49</bib_doi>
+			<bib_title>Analyzing the Evolution of Large-Scale Software Systems Using Design Structure Matrices and Design Rule Theory: Two Exploratory Cases</bib_title>
+			<bib_authors>LaMantia, Matthew J. and Cai, Yuanfang and MacCormack, Alan and Rusnak, John</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>83</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="booktitle">Seventh Working IEEE/IFIP Conference on Software Architecture (WICSA 2008)</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Applying the Design Structure Matrix to System Decomposition and Integration Problems: A Review and New Directions.pdf</relative_filename>
+			<key>ApplyingTheDesign</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Applying the Design Structure Matrix to System Decomposition and Integration Problems: A Review and New Directions</bib_title>
+			<bib_authors>Tyson R. Browning</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>15</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2001</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Efficient organazing of design activities.pdf</relative_filename>
+			<key>EfficientOrganizing</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Efficient organazing of design activities</bib_title>
+			<bib_authors>A. Kusiak; J. Wang</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>17</bib_pages>
+			<bib_year>1997</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/PREDICTING CHANGE PROPAGATION IN COMPLEX DESIGN.pdf</relative_filename>
+			<key>PredictingChange</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>PREDICTING CHANGE PROPAGATION IN COMPLEX DESIGN</bib_title>
+			<bib_authors>Dr P John Clarkson; Caroline Simons; Dr Claudia Eckert</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>2001</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Predicting Requirement Change Propagation Using Higher Order Design Structure Matrices: An Industry Case Study.pdf</relative_filename>
+			<key>PredictingRequirementChange</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Predicting Requirement Change Propagation Using Higher Order Design Structure Matrices: An Industry Case Study</bib_title>
+			<bib_authors></bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>42</bib_pages>
+			<bib_year>2011</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/The Structure and Value of Modularity in Software Design.pdf</relative_filename>
+			<key>TheStructureAndValue</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Structure and Value of Modularity in Software Design</bib_title>
+			<bib_authors>Kevin J. Sullivan; William G. Griswold; Yuanfang Cai, Ben Hallen</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>2001</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Using the Design Structure Matrix to Estimate Product Development Time.pdf</relative_filename>
+			<key>UsingTheDesignStructure</key>
+			<notes></notes>
+			<tagged>15</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Using the Design Structure Matrix to Estimate Product Development Time</bib_title>
+			<bib_authors>Maria Carrascosa; Steven D. Eppinger; Daniel E. Whitney</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>1998</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/Projeto/Papers/xflow - an extensible tool for empirical analysis of software systems evolution (final).pdf</relative_filename>
+			<key>Sociedade10</key>
+			<notes></notes>
+			<bib_type>Article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Instruções aos Autores de Contribuições para o SIBGRAPI</bib_title>
+			<bib_authors>Sociedade Brasileira de Computação</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/Projeto/Papers/xflow - an extensible tool for empirical analysis of software systems evolution (final).pdf</relative_filename>
+			<key>XFlow</key>
+			<notes></notes>
+			<tagged>16</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>XFlow: An Extensible Tool for Empirical Analysis of Software Systems Evolution</bib_title>
+			<bib_authors>Francisco Santana1; Gustavo A. Oliva2; Cleidson R. B. de Souza3; Marco A. Gerosa</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>2010</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MATE08/material/papers/05_VisualizacaoSoftware/prefuse a toolkit for interactive information visualization.pdf</relative_filename>
+			<key>Prefuse</key>
+			<notes></notes>
+			<tagged>7</tagged>
+			<tagged>16</tagged>
+			<tagged>17</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>prefuse: a toolkit for interactive information visualization</bib_title>
+			<bib_authors>Jeffrey Heer; Stuart K. Card; James A. Landay</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>2005</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MATE08/material/papers/20_DesignRulesDSMsEvolucao/lattix_Using Dependency Models to Manage Complex Software Architecture.pdf</relative_filename>
+			<key>Lattix</key>
+			<notes></notes>
+			<tagged>17</tagged>
+			<tagged>16</tagged>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Using Dependency Models to Manage Complex Software Architecture</bib_title>
+			<bib_authors>Neeraj Sangal; Ev Jordan; Vineet Sinha; Daniel Jackson</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>10</bib_pages>
+			<bib_year>2005</bib_year>
+		</doc>
+	</doclist>
+</library>
