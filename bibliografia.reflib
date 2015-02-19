@@ -1037,5 +1037,81 @@
 			<bib_pages>10</bib_pages>
 			<bib_year>2005</bib_year>
 		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/The Role of Experimentation in Software Engineering: Past, Present, Future - Victor R Basili.pdf</relative_filename>
+			<key>theRoleOfExperimentation</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Role of Experimentation in Software Engineering: Past, Present, Future</bib_title>
+			<bib_authors>Victor R. Basili</bib_authors>
+			<bib_journal>IEEE Proceedings of ICSE-18</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>442-449</bib_pages>
+			<bib_year>1996</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/Towards a Computerized Infrastructure for Managing Experimental Software Engineering Knowledge - Guilherme Travassos.pdf</relative_filename>
+			<key>towardsAComputerizedInfrastructure</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Towards a Computerized Infrastructure for Managing Experimental Software Engineering Knowledge</bib_title>
+			<bib_authors>Paula Gomes Mian; Guilherme Horta Travassos; Ana Regina Cavalcanti da Rocha; Ana Candida Cruz Natali</bib_authors>
+			<bib_journal>4th Ibero-American Symposium on Software Engineering and Knowledge Engineering (JIISIC’04)</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>12</bib_pages>
+			<bib_year>2004</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/Knowledge-Sharing Issues in Experimental Software Engineering - Basili.pdf</relative_filename>
+			<key>knowledgeSharingIssues</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Knowledge-Sharing Issues in Experimental Software Engineering</bib_title>
+			<bib_authors>Forrest Shull; Manoel G. Mendonça; Victor R. Basili; Jeffrey Carver; José Carlos Maldonado; Sandra Camargo Pinto Ferraz Fabbri; Guilherme Horta Travassos; Maria Cristina Ferreira de Oliveira</bib_authors>
+			<bib_journal>Empirical Software Engineering</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>111-137</bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="Ee">http://dx.doi.org/10.1023/B:EMSE.0000013516.80487.33</bib_extra>
+			<bib_extra key="Url">http://dblp.org/db/journals/ese/ese9.html</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/Using Repository of Repositories (RoRs) to Study the Growth of FOSS Projects: A Meta-Analysis Research Approach.pdf</relative_filename>
+			<key>usingRepositoryOfRepositories</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Using Repository of Repositories (RoRs) to Study the Growth of FOSS Projects: A Meta-Analysis Research Approach</bib_title>
+			<bib_authors>Sulayman K. Sowe; L. Angelis; I. Stamelos; Y. Manolopoulos</bib_authors>
+			<bib_journal>Open Source Development, Adoption and Innovation</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>Springer US</bib_number>
+			<bib_pages>147-160</bib_pages>
+			<bib_year>2007</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/FLOSSmole: A collaborative repository for FLOSS research data and analyses.pdf</relative_filename>
+			<key>flossmoleACollaborativeRepository</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>FLOSSmole: A Collaborative Repository for FLOSS Research Data and Analyses</bib_title>
+			<bib_authors>James Howison; Megan Conklin; Kevin Crowston</bib_authors>
+			<bib_journal>International Journal of Information Technology and Web Engineering (IJITWE)</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>17-26</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="Ee">http://dx.doi.org/10.4018/jitwe.2006070102</bib_extra>
+			<bib_extra key="Url">http://dblp.org/db/journals/ijitwe/ijitwe1.html\#HowisonCC06</bib_extra>
+		</doc>
 	</doclist>
 </library>
