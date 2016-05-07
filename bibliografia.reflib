@@ -811,8 +811,9 @@
 			<bib_extra key="url">http://pt.wikipedia.org/wiki/Linux_(núcleo)</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/analizo-cbsoft2010-tools.pdf</relative_filename>
-			<key>Analizo</key>
+			<relative_filename>Papers/Analizo: an Extensible Multi-Language Source Code Analysis
+and Visualization Toolkit.pdf</relative_filename>
+			<key>Terceiro2010</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
 			<bib_doi></bib_doi>
@@ -1529,22 +1530,6 @@ Code Clones</bib_title>
 			<bib_year>1994</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>Papers/Analizo: an Extensible Multi-Language Source Code Analysis
-and Visualization Toolkit.pdf</relative_filename>
-			<key>Analizo:anEx</key>
-			<notes></notes>
-			<bib_type>Article</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>Analizo: an Extensible Multi-Language Source Code Analysis
-and Visualization Toolkit</bib_title>
-			<bib_authors></bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year></bib_year>
-		</doc>
-		<doc>
 			<relative_filename>Papers/A Mapping Study on Software Product Lines Testing Tools.pdf</relative_filename>
 			<key>AMappingStud</key>
 			<notes></notes>
@@ -1644,17 +1629,19 @@ and Visualization Toolkit</bib_title>
 		</doc>
 		<doc>
 			<relative_filename>Papers/Caracterização da Complexidade Estrutural em Sistemas de Software.pdf</relative_filename>
-			<key>Caracterização</key>
+			<key>Terceiro2012</key>
 			<notes></notes>
-			<bib_type>Article</bib_type>
+			<bib_type>phdthesis</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>Caracterização da Complexidade Estrutural em Sistemas de Software</bib_title>
-			<bib_authors></bib_authors>
+			<bib_authors>Antonio Soares de Azevedo Terceiro</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
 			<bib_pages></bib_pages>
 			<bib_year>2012</bib_year>
+			<bib_extra key="address">Salvador</bib_extra>
+			<bib_extra key="school">Universidade Federal da Bahia</bib_extra>
 		</doc>
 		<doc>
 			<relative_filename>Papers/How do committees invent? - Conway.pdf</relative_filename>
@@ -2723,7 +2710,7 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_doi>10.1109/MCSE.2010.113</bib_doi>
 			<bib_title>Reproducible Research - Addressing the Need for Data and Code Sharing in Computational Science</bib_title>
 			<bib_authors>Stodden, Victoria C</bib_authors>
-			<bib_journal>Computing in Science &amp; Engineering</bib_journal>
+			<bib_journal>Computing in Science \&amp; Engineering</bib_journal>
 			<bib_volume>12</bib_volume>
 			<bib_number>5</bib_number>
 			<bib_pages>8 - 13</bib_pages>
@@ -2771,7 +2758,7 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_doi>10.1109/MCSE.2009.14</bib_doi>
 			<bib_title>Reproducible Research</bib_title>
 			<bib_authors>Sergey Fomel and Jon F. Claerbout</bib_authors>
-			<bib_journal>Computing in Science &amp; Engineering</bib_journal>
+			<bib_journal>Computing in Science \&amp; Engineering</bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
 			<bib_pages>5-7</bib_pages>
@@ -2827,7 +2814,7 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_type>article</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>Fostering Open Science to Research using a Taxonomy and an eLearning Portal</bib_title>
-			<bib_authors>Nancy Pontika, Petr Knoth, Matteo Cancellieri, Samuel Pearce</bib_authors>
+			<bib_authors>Nancy Pontika and Petr Knoth and Matteo Cancellieri and Samuel Pearce</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
@@ -2880,6 +2867,525 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_pages></bib_pages>
 			<bib_year></bib_year>
 			<bib_extra key="Url">http://sciencecodemanifesto.org</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>WikipediaOpenScience</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Open Science</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="howpublished">Open Science</bib_extra>
+			<bib_extra key="month">Outubro</bib_extra>
+			<bib_extra key="note">[Online; acessado 13 Outubro de 2015]</bib_extra>
+			<bib_extra key="Url">http://en.wikipedia.org/wiki/Open_science</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Enabling Reproducible Research: Open Licensing for Scientific Innovation.pdf</relative_filename>
+			<key>Stodden2009</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Enabling reproducible research: Open licensing for scientific innovation</bib_title>
+			<bib_authors>Stodden, Victoria</bib_authors>
+			<bib_journal>International Journal of Communications Law and Policy, Forthcoming</bib_journal>
+			<bib_volume>13</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1-25</bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Source Code Analysis - An Overview.pdf</relative_filename>
+			<key>Kirkov2010</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Source code analysis - An overview</bib_title>
+			<bib_authors>Kirkov, Radoslav and Agre, Gennady</bib_authors>
+			<bib_journal>Cybernetics and Information Technologies</bib_journal>
+			<bib_volume>10</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>60-77</bib_pages>
+			<bib_year>2010</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Systematic Mapping Studies in Software Engineering.pdf</relative_filename>
+			<key>Petersen2008</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Systematic Mapping Studies in Software Engineering</bib_title>
+			<bib_authors>Petersen, Kai and Feldt, Robert and Mujtaba, Shahid and Mattsson, Michael</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>17</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="booktitle">12th International Conference on Evaluation and Assessment in Software Engineering</bib_extra>
+			<bib_extra key="organization">sn</bib_extra>
+			<bib_extra key="series">1</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Estudo de métricas de código fonte no sistema Android e seus aplicativos.pdf</relative_filename>
+			<key>Ronaldo2015</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Estudo de métricas de código fonte no sistema Android e seus aplicativos</bib_title>
+			<bib_authors>Marcos Ronaldo Pereira Júnior</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>82</bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="Url">https://fga.unb.br/tcc/software/tcc-2015.1-engenharia-de-software/marcos-ronaldo-pereira-junior/v3-tcc.pdf</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A Novel Method for Early Software Quality Prediction Based on Support Vector Machine.pdf</relative_filename>
+			<key>Xing2005</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Novel Method for Early Software Quality Prediction Based on Support Vector Machine</bib_title>
+			<bib_authors>Xing, Fei and Guo, Ping and Lyu, Michael R.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>213-222</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="booktitle">ISSRE</bib_extra>
+			<bib_extra key="Ee">http://dx.doi.org/10.1109/ISSRE.2005.6</bib_extra>
+			<bib_extra key="Url">http://dblp.org/db/conf/issre/issre2005.html#XingGL05</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A Validation of Object-Oriented design metrics as quality indicators.pdf</relative_filename>
+			<key>Basili1996</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Validation of Object-Oriented Design Metrics as Quality Indicators</bib_title>
+			<bib_authors>Basili, Victor R. and Briand, Lionel C. and Melo, WalcĂŠlio L.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>751-761</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="Ee">http://dx.doi.org/10.1109/32.544352</bib_extra>
+			<bib_extra key="Url">http://dblp.org/db/journals/tse/tse22.html#BasiliBM96</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software Analysis: A Roadmap.pdf</relative_filename>
+			<key>Jackson2000</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software Analysis: A Roadmap</bib_title>
+			<bib_authors>Jackson, Daniel and Rinard, Martin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>133--145</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="booktitle">Proceedings of the Conference on the Future of Software Engineering</bib_extra>
+			<bib_extra key="organization">ACM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Code Analysis: Past and Present.pdf</relative_filename>
+			<key>Cruz2009</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Code Analysis: Past and Present</bib_title>
+			<bib_authors>Cruz, Daniela da and Henriques, Pedro Rangel and Pinto, Jorge Sousa</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Ferramenta para Consulta de Código Fonte: Um Pilar para Ferramentas de Análise Estática de Código.pdf</relative_filename>
+			<key>Oliveira2014</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Ferramenta para Consulta de Código Fonte: Um Pilar para Ferramentas de Análise Estática de Código</bib_title>
+			<bib_authors>Charles Daniel de Oliveira</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Análise Estática de Código-Fonte com Foco em Segurança: Metodologia Para Avaliação de Ferramentas.pdf</relative_filename>
+			<key>Ribeiro2015</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Análise Estática de Código-Fonte com Foco em Segurança: Metodologia Para Avaliação de Ferramentas</bib_title>
+			<bib_authors>Athos Coimbra Ribeiro</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>SamateAnalysers</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>SAMATE - Source Code Security Analyzers</bib_title>
+			<bib_authors>NIST</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Institution">NIST</bib_extra>
+			<bib_extra key="note">[Online; acessado 20 Abril de 2016]</bib_extra>
+			<bib_extra key="Url">http://samate.nist.gov/index.php/Source_Code_Security_Analyzers.html</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>spinSourceAnalysisTools</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Static Source Code Analysis Tools for C</bib_title>
+			<bib_authors>Spin</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="month">04</bib_extra>
+			<bib_extra key="note">[Online; acessado 23 Abril de 2016]</bib_extra>
+			<bib_extra key="Url">http://www.spinroot.com/static</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>certSecureCodingTools</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Secure Coding Tools</bib_title>
+			<bib_authors>CERT</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="month">23</bib_extra>
+			<bib_extra key="note">[Online; acessado 23 Abril de 2016]</bib_extra>
+			<bib_extra key="Url">http://www.cert.org/secure-coding/tools/index.cfm</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>wheelerStaticAnalysisTools</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Static analysis tools for security</bib_title>
+			<bib_authors>David A. Wheeler</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="month">08</bib_extra>
+			<bib_extra key="note">[Online; acessado 23 de Abril de 2016]</bib_extra>
+			<bib_extra key="Url">http://www.dwheeler.com/essays/static-analysis-tools.html</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>wikipediaListStaticCodeAnalysis</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>List of tools for static code analysis</bib_title>
+			<bib_authors>Wikipedia</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="month">04</bib_extra>
+			<bib_extra key="note">[Online; acessado 23 Abril de 2016]</bib_extra>
+			<bib_extra key="Url">https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/Introduction to Software Engineering - Wikipedia.pdf</relative_filename>
+			<key>WikiBooksSoftwareEngineering</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Introduction to Software Engineering</bib_title>
+			<bib_authors>Wikibooks</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>12</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="editor">Wikibooks</bib_extra>
+			<bib_extra key="publisher">Wikibooks</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Some Aspects of Software Quality Assurance for Small Projects.pdf</relative_filename>
+			<key>Staines2015</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi>ISSN 2229-5518</bib_doi>
+			<bib_title>Some Aspects of Software Quality Assurance for Small Projects</bib_title>
+			<bib_authors>A. Spiteri Staines</bib_authors>
+			<bib_journal>International Journal of Scientific and Engineering Research</bib_journal>
+			<bib_volume>6</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>441-445</bib_pages>
+			<bib_year>2015</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software Quality: The Elusive Target.pdf</relative_filename>
+			<key>Kitchenham1996</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software Quality: The Elusive Target</bib_title>
+			<bib_authors>Kitchenham, Barbara and Pfleeger, Shari Lawrence</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>12-21</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="Ee">http://dx.doi.org/10.1109/52.476281</bib_extra>
+			<bib_extra key="Url">http://dblp.org/db/journals/software/software13.html#KitchenhamP96</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Cornering the Chimera.pdf</relative_filename>
+			<key>Dromey1996</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Cornering the Chimera</bib_title>
+			<bib_authors>Dromey, R. Geoff</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>33-43</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Bibsource">DBLP, http://dblp.uni-trier.de</bib_extra>
+			<bib_extra key="Ee">http://dx.doi.org/10.1109/52.476284</bib_extra>
+			<bib_extra key="Url">http://dblp.org/db/journals/software/software13.html#Dromey96</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/ISO IEC 25022.pdf</relative_filename>
+			<key>Iso25022</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>ISO/IEC 25022:2012</bib_title>
+			<bib_authors>Iso, ISO</bib_authors>
+			<bib_journal>Systems and software engineering -- Systems and software Quality Requirements and Evaluation (SQuaRE) -- Measurement of quality in use</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Books/Code Complete 2nd Edition.pdf</relative_filename>
+			<key>McConnell2004</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi>ISBN-13: 079-0145196705</bib_doi>
+			<bib_title>Code Complete</bib_title>
+			<bib_authors>Steve McConnell</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="edition">2nd</bib_extra>
+			<bib_extra key="publisher">Microsoft Press</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Monitoramento de métricas de código-fonte em projetos de software livre.pdf</relative_filename>
+			<key>Meirelles2013</key>
+			<notes></notes>
+			<bib_type>phdthesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Monitoramento de métricas de código-fonte em projetos de software livre</bib_title>
+			<bib_authors>Paulo Roberto Miranda Meirelles</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="address">São Paulo, Brazil</bib_extra>
+			<bib_extra key="school">Universidade de São Paulo</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/The Real Software Crisis: Repeatability as a Core Value.pdf</relative_filename>
+			<key>Krishnamurthi2015</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi>10.1145/2658987</bib_doi>
+			<bib_title>The real software crisis: Repeatability as a core value</bib_title>
+			<bib_authors>Krishnamurthi, Shriram and Vitek, Jan</bib_authors>
+			<bib_journal>Communications of the ACM</bib_journal>
+			<bib_volume>58</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>34--36</bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="Publisher">ACM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/On the Worthinessof Software Engineering Research.pdf</relative_filename>
+			<key>Tang2016</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>On the Worthiness of Software Engineering Research</bib_title>
+			<bib_authors>Antony Tang; Rick Kazman</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Url">http://shidler.hawaii.edu/sites/shidler.hawaii.edu/files/users/kazman/se_research_worthiness.pdf</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Reproducible Research in Computational Science.pdf</relative_filename>
+			<key>Peng2011</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi>10.1126/science.1213847.</bib_doi>
+			<bib_title>Reproducible Research in Computational Science</bib_title>
+			<bib_authors>Peng, Roger D</bib_authors>
+			<bib_journal>Science (New York, Ny)</bib_journal>
+			<bib_volume>334</bib_volume>
+			<bib_number>6060</bib_number>
+			<bib_pages>1226</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Publisher">NIH Public Access</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Repeatability, Reproducibility and Rigor in Systems Research.pdf</relative_filename>
+			<key>Vitek2011</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Repeatability, reproducibility, and rigor in systems research</bib_title>
+			<bib_authors>Vitek, Jan and Kalibera, Tomas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>33--38</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="booktitle">Proceedings of the ninth ACM international conference on Embedded software</bib_extra>
+			<bib_extra key="organization">ACM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/From Repeatability to Reproducibility and Corroboration.pdf</relative_filename>
+			<key>Feitelson2015</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>From Repeatability to Reproducibility and Corroboration</bib_title>
+			<bib_authors>Feitelson, Dror G</bib_authors>
+			<bib_journal>ACM SIGOPS Operating Systems Review</bib_journal>
+			<bib_volume>49</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>3--11</bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="Publisher">ACM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/The Legal Framework for Reproducible Scientific Research Licensing and Copyright.pdf</relative_filename>
+			<key>Stodden2009Framework</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The legal framework for reproducible scientific research: Licensing and copyright</bib_title>
+			<bib_authors>Victoria Stodden</bib_authors>
+			<bib_journal>Computing in Science \&amp; Engineering</bib_journal>
+			<bib_volume>11</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>35--40</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Publisher">AIP Publishing</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Researchcompendia.org: Cyberinfrastructure for reproducibility and collaboration in computational science.pdf</relative_filename>
+			<key>Stodden2015</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Researchcompendia.org: Cyberinfrastructure for reproducibility and collaboration in computational science</bib_title>
+			<bib_authors>Stodden, Victoria and Miguez, Sheila and Seiler, Jennifer</bib_authors>
+			<bib_journal>Computing in Science \&amp; Engineering</bib_journal>
+			<bib_volume>17</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>12--19</bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="Publisher">AIP Publishing</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>GithubReproducibilityGuide</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Reproducibility Guide</bib_title>
+			<bib_authors>rOpenSci Hackathon</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+			<bib_extra key="month">05</bib_extra>
+			<bib_extra key="note">[Online; acessado em 06 de Maio 2016]</bib_extra>
+			<bib_extra key="Url">http://ropensci.github.io/reproducibility-guide/</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Reproducible Research: Tools and Strategies for Scientific Computing.pdf</relative_filename>
+			<key>Stodden2012</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Reproducible Research: Tools and Strategies for Scientific Computing</bib_title>
+			<bib_authors>Stodden, Victoria</bib_authors>
+			<bib_journal>Computing in Science \&amp; Engineering</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>11--12</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>iso2011iec25010</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>IEC25010: 2011 Systems and software engineering–Systems and software Quality Requirements and Evaluation (SQuaRE)–System and software quality models</bib_title>
+			<bib_authors>ISO, ISO</bib_authors>
+			<bib_journal>International Organization for Standardization</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>34</bib_pages>
+			<bib_year>2011</bib_year>
 		</doc>
 	</doclist>
 </library>
