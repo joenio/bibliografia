@@ -1,0 +1,14 @@
+#!/usr/bin/perl
+use strict;
+
+close STDERR;
+
+foreach my $paper (`find . -iname *.pdf | sort`) {
+  chomp $paper;
+  my $PAPER_CONTENT = `pdftotext "$paper" -`;
+  foreach my $keyword (@ARGV) {
+    if (grep(/$keyword/i, $PAPER_CONTENT)) {
+      print "$paper: '$keyword'\n";
+    }
+  }
+}
