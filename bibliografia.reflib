@@ -186,11 +186,11 @@
 			<bib_extra key="Url">http://pt.wikipedia.org/wiki/C++</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>monografia-ucsal-2009/Structural Complexity Evolution in Free Software Projects: A Case Study.pdf</relative_filename>
-			<key>structuralComplexityEvolution</key>
+			<relative_filename>Papers/Structural Complexity Evolution in Free Software Projects: A Case Study.pdf</relative_filename>
+			<key>Terceiro2009</key>
 			<notes></notes>
 			<tagged>3</tagged>
-			<bib_type>article</bib_type>
+			<bib_type>inproceedings</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>Structural Complexity Evolution in Free Software Projects: A Case Study</bib_title>
 			<bib_authors>Terceiro, Antonio and Chavez, Christina</bib_authors>
@@ -199,6 +199,7 @@
 			<bib_number></bib_number>
 			<bib_pages></bib_pages>
 			<bib_year>2009</bib_year>
+			<bib_extra key="booktitle">QACOS-OSSPL 2009: Proceedings of the Joint Workshop on Quality and Architectural Concerns in Open Source Software (QACOS) and Open Source Software and Product Lines (OSSPL)</bib_extra>
 			<bib_extra key="Institution">Computer Science Department – Universidade Federal da Bahia</bib_extra>
 		</doc>
 		<doc>
@@ -216,28 +217,6 @@
 			<bib_year>2001</bib_year>
 			<bib_extra key="edition">terceira</bib_extra>
 			<bib_extra key="publisher">Campus</bib_extra>
-		</doc>
-		<doc>
-			<relative_filename>monografia-ucsal-2009/On the Modularity of Aspect-Oriented Design: A Concern-Driven Measurement Approach - Santana.pdf</relative_filename>
-			<key>OntheModular</key>
-			<notes></notes>
-			<tagged>0</tagged>
-			<tagged>1</tagged>
-			<tagged>2</tagged>
-			<tagged>3</tagged>
-			<tagged>9</tagged>
-			<bib_type>phdthesis</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>On the Modularity of Aspect-Oriented Design: A Concern-Driven Measurement Approach</bib_title>
-			<bib_authors>Cláudio Nogueira Sant'Anna</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2008</bib_year>
-			<bib_extra key="address">Rio de Janeiro</bib_extra>
-			<bib_extra key="month">April</bib_extra>
-			<bib_extra key="school">Pontifícia Universidade Católica do Rio de Janeiro</bib_extra>
 		</doc>
 		<doc>
 			<relative_filename>monografia-ucsal-2009/outras monografias/ESTUDO E DESENVOLVIMENTO DE APLICACAO BIOMETRICA PARA AMBIENTE DE LARGA ESCALA - Amadeu.pdf</relative_filename>
@@ -334,24 +313,23 @@
 			<bib_extra key="url">http://www.cs.uah.edu/tech-reports/TR-UAH-CS-1999-01.pdf</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>monografia-ucsal-2009/MEASURING COUPLING AND COHESION IN OBJECT-ORIENTED SYSTEMS - Hitz and Montazerri.pdf</relative_filename>
-			<key>measuringCouplingAndCohesion</key>
+			<relative_filename>Papers/Measuring Coupling and Cohesion in Object-Oriented Systems.pdf</relative_filename>
+			<key>Hitz1995</key>
 			<notes></notes>
 			<tagged>2</tagged>
 			<tagged>6</tagged>
 			<tagged>0</tagged>
 			<tagged>1</tagged>
 			<tagged>3</tagged>
-			<bib_type>inproceedings</bib_type>
+			<bib_type>book</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>Measuring Coupling and Cohesion In Object-Oriented Systems</bib_title>
-			<bib_authors>Martin Hitz and Behzad Montazeri</bib_authors>
+			<bib_authors>Hitz, Martin and Montazeri, Behzad</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
 			<bib_pages></bib_pages>
-			<bib_year>2001</bib_year>
-			<bib_extra key="address">Monterrey, Mexico</bib_extra>
+			<bib_year>1995</bib_year>
 			<bib_extra key="booktitle">Symposium on Applied Corporate Computing</bib_extra>
 			<bib_extra key="institution">University of Vienna</bib_extra>
 			<bib_extra key="url">http://www.isys.uni-klu.ac.at/PDF/1995-0043-MHBM.pdf</bib_extra>
@@ -434,7 +412,7 @@
 			<bib_extra key="organisation">Calum</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../doc/analizo-article/dcoss2010.pdf</relative_filename>
+			<relative_filename>../doc/analizo-article/dcoss2010.pdf</relative_filename>
 			<key>antonio_terceiro_dcoss_2010</key>
 			<notes></notes>
 			<tagged>0</tagged>
@@ -452,7 +430,7 @@
 			<bib_year>2010</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../doc/analizo-article/Developers’ Contribution to Structural Complexity in Free Software projects - Terceiro.pdf</relative_filename>
+			<relative_filename>../doc/analizo-article/Developers’ Contribution to Structural Complexity in Free Software projects - Terceiro.pdf</relative_filename>
 			<key>antonio_terceiro_phdthesisplan_2010</key>
 			<notes></notes>
 			<tagged>0</tagged>
@@ -471,25 +449,27 @@
 			<bib_extra key="school">UFBA</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../doc/analizo-article/An Empirical Study on the Structural Complexity introduced by Core and Peripheral Developers in Free Software projects.pdf</relative_filename>
-			<key>terceiro_rios_chavez_2010</key>
+			<relative_filename>Papers/An Empirical Study on the Structural Complexity Introduced by Core and Peripheral Developers in Free Software Projects.pdf</relative_filename>
+			<key>Terceiro2010</key>
 			<notes></notes>
 			<tagged>0</tagged>
 			<tagged>3</tagged>
 			<tagged>7</tagged>
 			<tagged>12</tagged>
-			<bib_type>article</bib_type>
+			<bib_type>inproceedings</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>An Empirical Study on the Structural Complexity introduced by Core and Peripheral Developers in Free Software projects</bib_title>
-			<bib_authors>Antonio Terceiro, Luiz Romúrio Rios and Christina Chavez</bib_authors>
+			<bib_authors>Terceiro, Antonio and Rios, Luiz Romario and Chavez, Christina</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2009</bib_year>
+			<bib_pages>21--29</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="booktitle">Software Engineering (SBES), 2010 Brazilian Symposium on</bib_extra>
+			<bib_extra key="organization">IEEE</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/02_MineracaoRepositoriosSoftware/Data Mining for Software Engineering.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/02_MineracaoRepositoriosSoftware/Data Mining for Software Engineering.pdf</relative_filename>
 			<key>DataMiningfo</key>
 			<notes></notes>
 			<tagged>13</tagged>
@@ -505,7 +485,7 @@
 			<bib_year>2009</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/05_VisualizacaoSoftware/Polymetric Views A Lightweight Visual Approach to Reverse Engineering.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/05_VisualizacaoSoftware/Polymetric Views A Lightweight Visual Approach to Reverse Engineering.pdf</relative_filename>
 			<key>PolymetricViews</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -519,7 +499,7 @@
 			<bib_year>2003</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/06_VisualizacaoEvolucao/CodeTimeline Storytelling with Versioning Data.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/06_VisualizacaoEvolucao/CodeTimeline Storytelling with Versioning Data.pdf</relative_filename>
 			<key>CodeTimeline</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -533,7 +513,7 @@
 			<bib_year>2012</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/04_BugTrackingSystemsEvolucaoBugs/bettenburg-fse2008_What Makes a Good Bug Report.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/04_BugTrackingSystemsEvolucaoBugs/bettenburg-fse2008_What Makes a Good Bug Report.pdf</relative_filename>
 			<key>GoodBugReport</key>
 			<notes></notes>
 			<tagged>7</tagged>
@@ -549,7 +529,7 @@
 			<bib_year>2008</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/08_LocalizacaoConceitos/Concern Graphs Finding and Describing Concerns Using Structural Program Dependencies.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/08_LocalizacaoConceitos/Concern Graphs Finding and Describing Concerns Using Structural Program Dependencies.pdf</relative_filename>
 			<key>ConcernGraphs</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -563,7 +543,7 @@
 			<bib_year>2002</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/15_UsabilidadeEvolucaoAPIs/icse11-An Empirical Investigation into the Role of API-Level Refactoring during Software Evolution.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/15_UsabilidadeEvolucaoAPIs/icse11-An Empirical Investigation into the Role of API-Level Refactoring during Software Evolution.pdf</relative_filename>
 			<key>AnEmpiricalInvestigation</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -577,7 +557,7 @@
 			<bib_year>2011</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/An empirical study of static call graph extractors.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/An empirical study of static call graph extractors.pdf</relative_filename>
 			<key>CallGraphExtractors</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -591,7 +571,7 @@
 			<bib_year>2009</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/ATT_Chava Reverse Engineering and Tracking of Java Applets.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/ATT_Chava Reverse Engineering and Tracking of Java Applets.pdf</relative_filename>
 			<key>Chava</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -605,7 +585,7 @@
 			<bib_year>1999</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/ATT_The C Information Abstraction System.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/ATT_The C Information Abstraction System.pdf</relative_filename>
 			<key>TheCInformation</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -619,7 +599,7 @@
 			<bib_year>1990</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/Bauhaus A Tool Suite for Program Analysis and Reverse Engineering.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/Bauhaus A Tool Suite for Program Analysis and Reverse Engineering.pdf</relative_filename>
 			<key>Bauhaus</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -633,7 +613,7 @@
 			<bib_year>2005</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/Evaluating architectural extractors.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/07_ExtracaoDesignAnaliseEstatica/Evaluating architectural extractors.pdf</relative_filename>
 			<key>EvaluatingArchitectural</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -647,23 +627,7 @@
 			<bib_year>1998</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/monografia-ucsal-2009/Extracao de Informacoes de Dependencia entre Modulos de Programas C_Cpp.pdf</relative_filename>
-			<key>ExtracaoDeDependencias</key>
-			<notes></notes>
-			<tagged>10</tagged>
-			<tagged>4</tagged>
-			<bib_type>article</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>Extracao de Informacoes de Dependencia entre Modulos de Programas C/C++</bib_title>
-			<bib_authors>Joenio Costa</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages>45</bib_pages>
-			<bib_year>2009</bib_year>
-		</doc>
-		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/Projeto/Papers/Modelo de Saída de Extrator de Design/artigo_wmswm2009_final.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/Projeto/Papers/Modelo de Saída de Extrator de Design/artigo_wmswm2009_final.pdf</relative_filename>
 			<key>DesignSuite</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -678,7 +642,7 @@
 			<bib_year>2009</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/10_Refatoracao/How We Refactor and How We Know It.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/10_Refatoracao/How We Refactor and How We Know It.pdf</relative_filename>
 			<key>HowWeRefactor</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -692,7 +656,7 @@
 			<bib_year>2009</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/09_AnaliseImpactoMudanca/An Empirical Comparison of Dynamic Impact Analysis Algorithms.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/09_AnaliseImpactoMudanca/An Empirical Comparison of Dynamic Impact Analysis Algorithms.pdf</relative_filename>
 			<key>DynamicImpactAnalysis</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -706,7 +670,7 @@
 			<bib_year>2004</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/11_CompreensaoProgramas/How Effective Developers Investigate Source Code An Exploratory Study.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/11_CompreensaoProgramas/How Effective Developers Investigate Source Code An Exploratory Study.pdf</relative_filename>
 			<key>HowEffectiveDevelopers</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -720,22 +684,7 @@
 			<bib_year>2004</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/20_DesignRulesDSMsEvolucao/Exploring the structure of complex software designs An empirical study of open source and proprietary code.pdf</relative_filename>
-			<key>ExploringStructure</key>
-			<notes></notes>
-			<tagged>15</tagged>
-			<bib_type>article</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>Exploring the structure of complex software designs An empirical study of open source and proprietary code</bib_title>
-			<bib_authors>Alan MacCormack; John Rusnak; Carliss Baldwin</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages>40</bib_pages>
-			<bib_year>2004</bib_year>
-		</doc>
-		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/A Model-Based Method for Organizing Tasks in Product Development.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/A Model-Based Method for Organizing Tasks in Product Development.pdf</relative_filename>
 			<key>AModelBasedMethod</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -764,7 +713,7 @@
 			<bib_year>2012</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Antares DSM: Visualização e Otimização de Dependências em Design Structures Matrices.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Antares DSM: Visualização e Otimização de Dependências em Design Structures Matrices.pdf</relative_filename>
 			<key>AntaresDSM</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -779,7 +728,7 @@
 			<bib_year>2008</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/Grafos/REACHABILITY MATRICES AND CYCLIC MATRICES.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/Grafos/REACHABILITY MATRICES AND CYCLIC MATRICES.pdf</relative_filename>
 			<key>ReachabilityMatrices</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -811,14 +760,13 @@
 			<bib_extra key="url">http://pt.wikipedia.org/wiki/Linux_(núcleo)</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>Papers/Analizo: an Extensible Multi-Language Source Code Analysis
-and Visualization Toolkit.pdf</relative_filename>
-			<key>Terceiro2010</key>
+			<relative_filename>Papers/Analizo: an Extensible Multi-Language Source Code Analysis and Visualization Toolkit.pdf</relative_filename>
+			<key>Terceiro2010Analizo</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>Analizo: an Extensible Multi-Language Source Code Analysis and Visualization Toolkit</bib_title>
-			<bib_authors>Antonio Terceiro; Joenio Costa; Joao Miranda; Paulo Meirelles; Luiz Romario Rios; Lucianna Almeida; Christina Chavez; Fabio Kon</bib_authors>
+			<bib_authors>Terceiro, Antonio and Joenio Costa and Joao Miranda and Paulo Meirelles and Luiz Romario Rios and Lucianna Almeida and Christina Chavez and Fabio Kon</bib_authors>
 			<bib_journal></bib_journal>
 			<bib_volume></bib_volume>
 			<bib_number></bib_number>
@@ -826,7 +774,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2010</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/material/papers/12_RecuperacaoArquitetural/Secrets from the Monster Extracting Mozilla's Software Architecture.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/material/papers/12_RecuperacaoArquitetural/Secrets from the Monster Extracting Mozilla's Software Architecture.pdf</relative_filename>
 			<key>SecretsFromMonster</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -840,7 +788,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2000</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Dependency Models to Manage Software Architecture.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Dependency Models to Manage Software Architecture.pdf</relative_filename>
 			<key>DependencyModel</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -855,7 +803,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2005</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/A Knowledge-Based Tool for Multilevel Decomposition of a Complex Design Problem.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/A Knowledge-Based Tool for Multilevel Decomposition of a Complex Design Problem.pdf</relative_filename>
 			<key>AKnowledgeBased</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -870,7 +818,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>1989</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Analyzing the Evolution of Large-Scale Software Systems using Design Structure Matrices and Design Rule Theory Two Exploratory Cases.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Analyzing the Evolution of Large-Scale Software Systems using Design Structure Matrices and Design Rule Theory Two Exploratory Cases.pdf</relative_filename>
 			<key>AnalyzingTheEvolution</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -886,7 +834,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_extra key="booktitle">Seventh Working IEEE/IFIP Conference on Software Architecture (WICSA 2008)</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Applying the Design Structure Matrix to System Decomposition and Integration Problems: A Review and New Directions.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Applying the Design Structure Matrix to System Decomposition and Integration Problems: A Review and New Directions.pdf</relative_filename>
 			<key>ApplyingTheDesign</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -901,7 +849,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2001</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Efficient organazing of design activities.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Efficient organazing of design activities.pdf</relative_filename>
 			<key>EfficientOrganizing</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -916,7 +864,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>1997</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/PREDICTING CHANGE PROPAGATION IN COMPLEX DESIGN.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/PREDICTING CHANGE PROPAGATION IN COMPLEX DESIGN.pdf</relative_filename>
 			<key>PredictingChange</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -931,7 +879,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2001</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Predicting Requirement Change Propagation Using Higher Order Design Structure Matrices: An Industry Case Study.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Predicting Requirement Change Propagation Using Higher Order Design Structure Matrices: An Industry Case Study.pdf</relative_filename>
 			<key>PredictingRequirementChange</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -946,7 +894,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2011</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/The Structure and Value of Modularity in Software Design.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/The Structure and Value of Modularity in Software Design.pdf</relative_filename>
 			<key>TheStructureAndValue</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -961,7 +909,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2001</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Using the Design Structure Matrix to Estimate Product Development Time.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MAT08/Trabalho/DSM - Matrizes de Estrutura de Design/Using the Design Structure Matrix to Estimate Product Development Time.pdf</relative_filename>
 			<key>UsingTheDesignStructure</key>
 			<notes></notes>
 			<tagged>15</tagged>
@@ -976,7 +924,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>1998</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/Projeto/Papers/xflow - an extensible tool for empirical analysis of software systems evolution (final).pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/Projeto/Papers/xflow - an extensible tool for empirical analysis of software systems evolution (final).pdf</relative_filename>
 			<key>Sociedade10</key>
 			<notes></notes>
 			<bib_type>Article</bib_type>
@@ -990,7 +938,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2010</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/Projeto/Papers/xflow - an extensible tool for empirical analysis of software systems evolution (final).pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/Projeto/Papers/xflow - an extensible tool for empirical analysis of software systems evolution (final).pdf</relative_filename>
 			<key>XFlow</key>
 			<notes></notes>
 			<tagged>16</tagged>
@@ -1005,7 +953,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2010</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MATE08/material/papers/05_VisualizacaoSoftware/prefuse a toolkit for interactive information visualization.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MATE08/material/papers/05_VisualizacaoSoftware/prefuse a toolkit for interactive information visualization.pdf</relative_filename>
 			<key>Prefuse</key>
 			<notes></notes>
 			<tagged>7</tagged>
@@ -1022,7 +970,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2005</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MATE08/material/papers/20_DesignRulesDSMsEvolucao/lattix_Using Dependency Models to Manage Complex Software Architecture.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MATE08/material/papers/20_DesignRulesDSMsEvolucao/lattix_Using Dependency Models to Manage Complex Software Architecture.pdf</relative_filename>
 			<key>Lattix</key>
 			<notes></notes>
 			<tagged>17</tagged>
@@ -1038,7 +986,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2005</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/The Role of Experimentation in Software Engineering: Past, Present, Future - Victor R Basili.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/The Role of Experimentation in Software Engineering: Past, Present, Future - Victor R Basili.pdf</relative_filename>
 			<key>theRoleOfExperimentation</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -1052,7 +1000,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>1996</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/Towards a Computerized Infrastructure for Managing Experimental Software Engineering Knowledge - Guilherme Travassos.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/Towards a Computerized Infrastructure for Managing Experimental Software Engineering Knowledge - Guilherme Travassos.pdf</relative_filename>
 			<key>towardsAComputerizedInfrastructure</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -1066,7 +1014,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2004</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/Knowledge-Sharing Issues in Experimental Software Engineering - Basili.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/Knowledge-Sharing Issues in Experimental Software Engineering - Basili.pdf</relative_filename>
 			<key>knowledgeSharingIssues</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -1083,7 +1031,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_extra key="Url">http://dblp.org/db/journals/ese/ese9.html</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/Using Repository of Repositories (RoRs) to Study the Growth of FOSS Projects: A Meta-Analysis Research Approach.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/Using Repository of Repositories (RoRs) to Study the Growth of FOSS Projects: A Meta-Analysis Research Approach.pdf</relative_filename>
 			<key>usingRepositoryOfRepositories</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -1097,7 +1045,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_year>2007</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/FLOSSmole: A collaborative repository for FLOSS research data and analyses.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/MATE65/2014.2/Trabalho 02/Papers/FLOSSmole: A collaborative repository for FLOSS research data and analyses.pdf</relative_filename>
 			<key>flossmoleACollaborativeRepository</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -1114,7 +1062,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_extra key="Url">http://dblp.org/db/journals/ijitwe/ijitwe1.html\#HowisonCC06</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/Artigo SBES 2015/Papers/Historical, Conceptual, and Methodological Aspects of the Publications of the Brazilian Symposium on Software Engineering: A Systematic Mapping Study.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/Artigo SBES 2015/Papers/Historical, Conceptual, and Methodological Aspects of the Publications of the Brazilian Symposium on Software Engineering: A Systematic Mapping Study.pdf</relative_filename>
 			<key>Cavalcanti11</key>
 			<notes></notes>
 			<bib_type>InProceedings</bib_type>
@@ -1132,7 +1080,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_extra key="Url">http://dblp.org/db/conf/sbes/sbes2011.html\#CavalcantiS11</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/Projeto de Dissertacao/Papers/Revisão Sistemática/Performing Systematic Literature Reviews in Software Engineering.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/Projeto de Dissertacao/Papers/Revisão Sistemática/Performing Systematic Literature Reviews in Software Engineering.pdf</relative_filename>
 			<key>Budgen2006</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -1195,7 +1143,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_extra key="Url">http://dblp.org/db/journals/infsof/infsof54.html\#Portillo-RodriguezVPB12</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/Artigos/artigo-sbes-2015/Papers/SBES 25/Software Engineering Research in Brazil: An Analysis of the Last Five Editions of SBES.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/Artigos/artigo-sbes-2015/Papers/SBES 25/Software Engineering Research in Brazil: An Analysis of the Last Five Editions of SBES.pdf</relative_filename>
 			<key>Leite11</key>
 			<notes></notes>
 			<bib_type>inproceedings</bib_type>
@@ -1213,7 +1161,7 @@ and Visualization Toolkit.pdf</relative_filename>
 			<bib_extra key="Url">http://dblp.org/db/conf/sbes/sbes2011.html\#LeiteBL11</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>../../Documentos/Mestrado UFBA/Artigos/artigo-sbes-2015/Papers/SBES 25/25 Years of Software Engineering in Brazil: An Analysis of SBES History.pdf</relative_filename>
+			<relative_filename>../Documentos/Mestrado UFBA/Artigos/artigo-sbes-2015/Papers/SBES 25/25 Years of Software Engineering in Brazil: An Analysis of SBES History.pdf</relative_filename>
 			<key>Gomes11</key>
 			<notes></notes>
 			<bib_type>inproceedings</bib_type>
@@ -1334,20 +1282,6 @@ Code Clones</bib_title>
 			<bib_year></bib_year>
 		</doc>
 		<doc>
-			<relative_filename>Papers/Structural Complexity Evolution in Free Software Projects: A Case Study.pdf</relative_filename>
-			<key>Antonio07</key>
-			<notes></notes>
-			<bib_type>Article</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>Structural Complexity Evolution in Free Software Projects: A Case Study</bib_title>
-			<bib_authors>Antonio Terceiro,,,</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2007</bib_year>
-		</doc>
-		<doc>
 			<relative_filename>Papers/On the Modularity of Aspect-Oriented Design: A Concern-Driven Measurement Approach.pdf</relative_filename>
 			<key>OntheModular-1</key>
 			<notes></notes>
@@ -1391,17 +1325,18 @@ Code Clones</bib_title>
 		</doc>
 		<doc>
 			<relative_filename>Papers/A Metrics suite for Object Oriented design.pdf</relative_filename>
-			<key>Chris93</key>
+			<key>Chidamber1994</key>
 			<notes></notes>
-			<bib_type>Article</bib_type>
+			<bib_type>article</bib_type>
 			<bib_doi></bib_doi>
 			<bib_title>A Metrics suite for Object Oriented design</bib_title>
-			<bib_authors>Chris F. Kemerer</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>1993</bib_year>
+			<bib_authors>Chidamber, Shyam R and Kemerer, Chris F</bib_authors>
+			<bib_journal>Software Engineering, IEEE Transactions on</bib_journal>
+			<bib_volume>20</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>476--493</bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
 		</doc>
 		<doc>
 			<relative_filename>Papers/Identifying and Improving Reusability Based on Coupling Patterns.pdf</relative_filename>
@@ -3386,6 +3321,1190 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_number></bib_number>
 			<bib_pages>34</bib_pages>
 			<bib_year>2011</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Empirical Analysis of CK Metrics for Object-Oriented Design Complexity: Implications for Software Defects.pdf</relative_filename>
+			<key>Subramanyam2003</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Empirical analysis of ck metrics for object-oriented design complexity: Implications for software defects</bib_title>
+			<bib_authors>Subramanyam, Ramanath and Krishnan, Mayuram S.</bib_authors>
+			<bib_journal>Software Engineering, IEEE Transactions on</bib_journal>
+			<bib_volume>29</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>297--310</bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Mining Metrics to Predict Component Failures.pdf</relative_filename>
+			<key>Nagappan2006</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mining metrics to predict component failures</bib_title>
+			<bib_authors>Nagappan, Nachiappan and Ball, Thomas and Zeller, Andreas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>452--461</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="booktitle">Proceedings of the 28th international conference on Software engineering</bib_extra>
+			<bib_extra key="organization">ACM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software Quality Assessment of Open Source Software.pdf</relative_filename>
+			<key>Gousios2007</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software quality assessment of open source software</bib_title>
+			<bib_authors>ousios, Georgios and Karakoidas, Vassilios and Stroggylos, Konstantinos and Louridas, Panagiotis and Vlachos, Vasileios and Spinellis, Diomidis</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="booktitle">Proceedings of the 11th Panhellenic Conference on Informatics</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Exploring the relationships between design measures and software quality in object-oriented systems.pdf</relative_filename>
+			<key>Briand2000</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Exploring the relationships between design measures and software quality in object-oriented systems</bib_title>
+			<bib_authors>Briand, Lionel C and W{\&quot;u}st, J{\&quot;u}rgen and Daly, John W and Porter, D Victor</bib_authors>
+			<bib_journal>Journal of systems and software</bib_journal>
+			<bib_volume>51</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>245--273</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software Metrics - A Taxonomy.pdf</relative_filename>
+			<key>Mohamed1994</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software Metrics - A Taxonomy</bib_title>
+			<bib_authors>Mohamed Medhat El Wakil</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/ISO 9126 external systems quality characteristics, sub-characteristics and domain specific criteria for evaluating e-Learning systems.pdf</relative_filename>
+			<key>Padayachee2010</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>ISO 9126 external systems quality characteristics, sub-characteristics and domain specific criteria for evaluating e-Learning systems</bib_title>
+			<bib_authors>Padayachee, I and Kotze, P and van Der Merwe, A</bib_authors>
+			<bib_journal>The Southern African Computer Lecturers’ Association, University of Pretoria, South Africa</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Source Code Analysis: A Road Map.pdf</relative_filename>
+			<key>Binkley2007</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Source Code Analysis: A Road Map</bib_title>
+			<bib_authors>Binkley, David</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>104--119</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="booktitle">2007 Future of Software Engineering</bib_extra>
+			<bib_extra key="organization">IEEE Computer Society</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Código Limpo e seu Mapeamento para Métricas de Código Fonte.pdf</relative_filename>
+			<key>Almeida2010</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Código Limpo e seu Mapeamento para Métricas de Código Fonte</bib_title>
+			<bib_authors>Almeida, Lucianna Thomaz and de Miranda, João Machini</bib_authors>
+			<bib_journal>Monografia de Graduação em Ciência da Computação</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>74</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="University">Universidade de São Paulo</bib_extra>
+			<bib_extra key="Url">http://www.ime.usp.br/~cef/mac499-10/monografias/lucianna-joao/arquivos/monografia.pdf</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>RevolutionanalyticsComRRT</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Introducing the Reproducible R Toolkit and the checkpoint package</bib_title>
+			<bib_authors>Andrie de Vries</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="howpublished">Internet</bib_extra>
+			<bib_extra key="month">October</bib_extra>
+			<bib_extra key="note">[Online; Acessado em 24 de Maio de 2016]</bib_extra>
+			<bib_extra key="Url">http://blog.revolutionanalytics.com/2014/10/introducing-rrt.html</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Martin2012</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Clean Code</bib_title>
+			<bib_authors>Martin, Robert C. and Han, Lei</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="publisher">Publishing House of Electronics Industry</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/Implementation Patterns.pdf</relative_filename>
+			<key>Beck2007</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Implementation Patterns</bib_title>
+			<bib_authors>Beck, Kent</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="publisher">Pearson Education</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Darcy2005</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The structural complexity of software an experimental test</bib_title>
+			<bib_authors>Darcy, David P. and Kemerer, Chris F. and Slaughter, Sandra A. and Tomayko, James E.</bib_authors>
+			<bib_journal>Software Engineering, IEEE Transactions on</bib_journal>
+			<bib_volume>31</bib_volume>
+			<bib_number>11</bib_number>
+			<bib_pages>982-995</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A complexity measure.pdf</relative_filename>
+			<key>McCabe1976</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A complexity measure</bib_title>
+			<bib_authors>McCabe, Thomas J.</bib_authors>
+			<bib_journal>Software Engineering, IEEE Transactions on</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>308-320</bib_pages>
+			<bib_year>1976</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Sharble1993</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The object-oriented brewery: a comparison of two object-oriented development methods</bib_title>
+			<bib_authors>Sharble, Robert C. and Cohen, Samuel S.</bib_authors>
+			<bib_journal>ACM SIGSOFT Software Engineering Notes</bib_journal>
+			<bib_volume>18</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>60-73</bib_pages>
+			<bib_year>1993</bib_year>
+			<bib_extra key="Publisher">ACM</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Shih1997</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Decomposition of inheritance hierarchy DAGs for object-oriented software metrics</bib_title>
+			<bib_authors>Shih, Timothy K. and Chung, Chi-Ming and Wang, Chun-Chia and Pai, Wen C.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>238-245</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Engineering of Computer-Based Systems, 1997. Proceedings., International Conference and Workshop on</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Rosenberg1997</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software quality metrics for object-oriented environments</bib_title>
+			<bib_authors>Rosenberg, Linda H. and Hyatt, Lawrence E.</bib_authors>
+			<bib_journal>Crosstalk journal</bib_journal>
+			<bib_volume>10</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1997</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A Comparative Study of Industrial Static Analysis Tools.pdf</relative_filename>
+			<key>Emanuelsson2008</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi>10.1016/j.entcs.2008.06.039</bib_doi>
+			<bib_title>A Comparative Study of Industrial Static Analysis Tools</bib_title>
+			<bib_authors>Emanuelsson, P{\&quot;a}r and Nilsson, Ulf</bib_authors>
+			<bib_journal>Electronic notes in theoretical computer science</bib_journal>
+			<bib_volume>217</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>5--21</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Taxonomy of Static Code Analysis Tools.pdf</relative_filename>
+			<key>Novak2010</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Taxonomy of static code analysis tools</bib_title>
+			<bib_authors>Novak, Jernej and Krajnc, Andrej and others</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>418--422</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="booktitle">MIPRO, 2010 Proceedings of the 33rd International Convention</bib_extra>
+			<bib_extra key="organization">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Industrial perspective on static analysis.pdf</relative_filename>
+			<key>Wichmann1995</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Industrial perspective on static analysis</bib_title>
+			<bib_authors>Wichmann, BA and Canning, AA and Clutterbuck, DL and Winsborrow, LA and Ward, NJ and Marsh, DWR</bib_authors>
+			<bib_journal>Software Engineering Journal</bib_journal>
+			<bib_volume>10</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>69</bib_pages>
+			<bib_year>1995</bib_year>
+			<bib_extra key="Publisher">Citeseer</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/The Use and Limitations of Static-Analysis Tools to Improve Software Quality.pdf</relative_filename>
+			<key>Anderson2008</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The use and limitations of static-analysis tools to improve software quality</bib_title>
+			<bib_authors>Anderson, Paul</bib_authors>
+			<bib_journal>CrossTalk: The Journal of Defense Software Engineering</bib_journal>
+			<bib_volume>21</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>18-21</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Publisher">Citeseer</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software Static Code Analysis Lessons Learned.pdf</relative_filename>
+			<key>German2003</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software static code analysis lessons learned</bib_title>
+			<bib_authors>German, Andy</bib_authors>
+			<bib_journal>Crosstalk</bib_journal>
+			<bib_volume>16</bib_volume>
+			<bib_number>11</bib_number>
+			<bib_pages>19-22</bib_pages>
+			<bib_year>2003</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/SAMATE and Evaluating Static Analysis Tools.pdf</relative_filename>
+			<key>Black2007</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>SAMATE and evaluating static analysis tools</bib_title>
+			<bib_authors>Black, Paul E.</bib_authors>
+			<bib_journal>Ada User Journal</bib_journal>
+			<bib_volume>28</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>184-188</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Publisher">Amsterdam, Netherlands: IOS Press on behalf of Ada Language UK, 1994-</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Evaluating Static Source Code Analysis Tools.pdf</relative_filename>
+			<key>Hofer2010</key>
+			<notes></notes>
+			<bib_type>phdthesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Evaluating Static Source Code Analysis Tools</bib_title>
+			<bib_authors>Hofer, Thomas</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="school">Citeseer</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Scanstud: A Methodology for Systematic, Fine-grained Evaluation of Static Analysis Tools.pdf</relative_filename>
+			<key>Johns2011</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Scanstud: a methodology for systematic, fine-grained evaluation of static analysis tools</bib_title>
+			<bib_authors>Johns, Martin and Jodeit, Moritz</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>523-530</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Testing, Verification and Validation Workshops (ICSTW), 2011 IEEE Fourth International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Experimental Evaluation of Static Source Code Analysis tools.pdf</relative_filename>
+			<key>Alemerien2013</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Experimental Evaluation of Static Source Code Analysis tools</bib_title>
+			<bib_authors>Alemerien, Khalid and Magel, Kenneth</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Author:corp">The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp)</bib_extra>
+			<bib_extra key="booktitle">Proceedings of the International Conference on Software Engineering Research and Practice (SERP)</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Static Code Analysis.pdf</relative_filename>
+			<key>Ataide2014</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Static Code Analisys</bib_title>
+			<bib_authors>Ataíde, Artur</bib_authors>
+			<bib_journal>Software Security paper in Master’s Degree</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/The Effectiveness of Automated Static Analysis Tools for Fault Detection and Refactoring Prediction.pdf</relative_filename>
+			<key>Wedyan2009</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The effectiveness of automated static analysis tools for fault detection and refactoring prediction</bib_title>
+			<bib_authors>Wedyan, Fadi and Alrmuny, Dalal and Bieman, James M.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>141-150</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">2009 International Conference on Software Testing Verification and Validation</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Patente Source-Code Static Analysis US7340726.pdf</relative_filename>
+			<key>Chelf2008</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Systems and methods for performing static analysis on source code</bib_title>
+			<bib_authors>Chelf, B. E. and Hallem, S. A. and Chou, A. C.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="month">mar 4</bib_extra>
+			<bib_extra key="note">US Patent 7,340,726</bib_extra>
+			<bib_extra key="Publisher">Google Patents</bib_extra>
+			<bib_extra key="Url">https://www.google.com/patents/US7340726</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Evaluating Static Analysis Tools for Detecting Buffer Overflows in C Code.pdf</relative_filename>
+			<key>Kratkiewicz2005</key>
+			<notes></notes>
+			<bib_type>techreport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Evaluating static analysis tools for detecting buffer overflows in c code</bib_title>
+			<bib_authors>Kratkiewicz, Kendra J.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Publisher">DTIC Document</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Effect of Static Analysis Tools on Software Security: Preliminary Investigation.pdf</relative_filename>
+			<key>Okun2007</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Effect of static analysis tools on software security: preliminary investigation</bib_title>
+			<bib_authors>Okun, Vadim and Guthrie, William F. and Gaucher, Romain and Black, Paul E.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1-5</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="booktitle">Proceedings of the 2007 ACM workshop on Quality of protection</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Comparing Four Static Analysis Tools for Java Concurrency Bugs.pdf</relative_filename>
+			<key>Al2010</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Comparing four static analysis tools for java concurrency bugs</bib_title>
+			<bib_authors>Al Mamun, Md Abdullah and Khanam, Aklima and Grahn, Håkan and Feldt, Robert</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="booktitle">Third Swedish Workshop on Multi-Core Computing (MCC-10). Chalmers University of Technology</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A Comparative Study on Software Vulnerability Static Analysis Techniques and Tools.pdf</relative_filename>
+			<key>Li2010</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A comparative study on software vulnerability static analysis techniques and tools</bib_title>
+			<bib_authors>Li, Peng and Cui, Baojiang</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>521-524</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Information Theory and Information Security (ICITIS), 2010 IEEE International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Improving Software Quality with Static Analysis.pdf</relative_filename>
+			<key>Foster2007</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Improving software quality with static analysis</bib_title>
+			<bib_authors>Foster, Jeffrey S. and Hicks, Michael W. and Pugh, William</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>83-84</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="booktitle">Proceedings of the 7th ACM SIGPLAN-SIGSOFT workshop on Program analysis for software tools and engineering</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Comparison of Static Code Analysis Tools.pdf</relative_filename>
+			<key>Mantere2009</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Comparison of Static Code Analysis Tools.</bib_title>
+			<bib_authors>Mantere, Matti and Uusitalo, Ilkka and Röning, Juha</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>15-22</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="booktitle">SECURWARE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/Secure Programming with Static Analysis.pdf</relative_filename>
+			<key>Chess2007</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Secure programming with static analysis</bib_title>
+			<bib_authors>Chess, Brian and West, Jacob</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="publisher">Pearson Education</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Static analysis of source code security: assessment of tools against SAMATE tests.pdf</relative_filename>
+			<key>Diaz2013</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Static analysis of source code security: Assessment of tools against SAMATE tests</bib_title>
+			<bib_authors>Díaz, Gabriel and Bermejo, Juan Ramón</bib_authors>
+			<bib_journal>Information and software technology</bib_journal>
+			<bib_volume>55</bib_volume>
+			<bib_number>8</bib_number>
+			<bib_pages>1462-1476</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A Comparison of Bug Finding Tools for Java.pdf</relative_filename>
+			<key>Rutar2004</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A comparison of bug finding tools for Java</bib_title>
+			<bib_authors>Rutar, Nick and Almazan, Christian B. and Foster, Jeffrey S.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>245-256</bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Reliability Engineering, 2004. ISSRE 2004. 15th International Symposium on</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ryder1974</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The PFORT verifier</bib_title>
+			<bib_authors>Ryder, Barbara G.</bib_authors>
+			<bib_journal>Software: Practice and Experience</bib_journal>
+			<bib_volume>4</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>359-377</bib_pages>
+			<bib_year>1974</bib_year>
+			<bib_extra key="Publisher">Wiley Online Library</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Lecture Notes on Static Analysis.pdf</relative_filename>
+			<key>Schwartzbach2008</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Lecture notes on static analysis</bib_title>
+			<bib_authors>Schwartzbach, Michael I.</bib_authors>
+			<bib_journal>Basic Research in Computer Science, University of Aarhus, Denmark</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Books/Principles of Program Analysis (Flemming Nielson, Hanne R. Nielson, Chris Hankin).pdf</relative_filename>
+			<key>Nielson2015</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Principles of program analysis</bib_title>
+			<bib_authors>Nielson, Flemming and Nielson, Hanne R. and Hankin, Chris</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="publisher">Springer</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Intermediate Representations in Imperative Compilers: A Survey.pdf</relative_filename>
+			<key>Stanier2013</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Intermediate representations in imperative compilers: A survey</bib_title>
+			<bib_authors>Stanier, James and Watson, Des</bib_authors>
+			<bib_journal>ACM Computing Surveys (CSUR)</bib_journal>
+			<bib_volume>45</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>26</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Publisher">ACM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Document Semantics: two approaches.pdf</relative_filename>
+			<key>Ramalho1996</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Document semantics: two approaches</bib_title>
+			<bib_authors>Ramalho, José Carlos and Almeida, Jose Joao and Henriques, Pedro Rangel</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Publisher">GCA</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/IEEE Std 1061-1998—IEEE standard for a software quality metrics methodology.pdf</relative_filename>
+			<key>software1998ieee</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>IEEE Std 1061-1998—IEEE standard for a software quality metrics methodology</bib_title>
+			<bib_authors>Committee, Software &amp;. Systems Engineering Standards and others</bib_authors>
+			<bib_journal>IEEE Computer Society, Tech. Rep</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>ieee1990ieee</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>IEEE Standard Glossary of Software Engineering Terminology (IEEE Std 610.12-1990). Los Alamitos</bib_title>
+			<bib_authors>Committee, IEEE Standards Coordinating and others</bib_authors>
+			<bib_journal>CA: IEEE Computer Society</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1990</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Lint, a C Program Checker.pdf</relative_filename>
+			<key>Johnson1978</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Lint, a C Program Checker</bib_title>
+			<bib_authors>Johnson, S. C.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>78-1273</bib_pages>
+			<bib_year>1978</bib_year>
+			<bib_extra key="booktitle">COMP. SCI. TECH. REP</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Static Analysis: A Survey of Techniques and Tools.pdf</relative_filename>
+			<key>Gosain2015</key>
+			<notes></notes>
+			<bib_type>incollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Static Analysis: A Survey of Techniques and Tools</bib_title>
+			<bib_authors>Gosain, Anjana and Sharma, Ganga</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>581-591</bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="booktitle">Intelligent Computing and Applications</bib_extra>
+			<bib_extra key="publisher">Springer</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>GrammaTech2016</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Source Code Analysis with CodeSonar</bib_title>
+			<bib_authors>GrammaTech</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="howpublished">online</bib_extra>
+			<bib_extra key="month">06</bib_extra>
+			<bib_extra key="note">[online; acessado em 27 Julho 2016]</bib_extra>
+			<bib_extra key="Url">https://www.grammatech.com/products/source-code-analysis</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Jagdish1997</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Automated Metrics and Object Oriented Development</bib_title>
+			<bib_authors>Jagdish, Bansiya and Carl, Devis</bib_authors>
+			<bib_journal>Dr. Dobb’s Journal December</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Url">http://www.drdobbs.com/web-development/automated-metrics-and-object-oriented-de/184410338</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Undecidability of Static Analysis.pdf</relative_filename>
+			<key>Landi1992</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Undecidability of static analysis</bib_title>
+			<bib_authors>Landi, William</bib_authors>
+			<bib_journal>ACM Letters on Programming Languages and Systems (LOPLAS)</bib_journal>
+			<bib_volume>1</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>323-337</bib_pages>
+			<bib_year>1992</bib_year>
+			<bib_extra key="Publisher">ACM</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Kolewe1993</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Metrics in object-oriented design and programming</bib_title>
+			<bib_authors>Kolewe, Ralph</bib_authors>
+			<bib_journal>Software Development</bib_journal>
+			<bib_volume>1</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>53-62</bib_pages>
+			<bib_year>1993</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Ihaka1996</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>R: a language for data analysis and graphics</bib_title>
+			<bib_authors>Ihaka, Ross and Gentleman, Robert</bib_authors>
+			<bib_journal>Journal of computational and graphical statistics</bib_journal>
+			<bib_volume>5</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>299-314</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Publisher">Taylor \&amp; Francis</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Brito1994</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>MOOD–Metrics for Object-Oriented Design</bib_title>
+			<bib_authors>Brito, Abreu F. and Abreu, E.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="booktitle">OOPSLA 1994 Workshop on Pragmatic and Theoretical Directions in Object-Oriented Software Metrics. Portland: OR</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Kalibro: interpretação de métricas de código-fonte.pdf</relative_filename>
+			<key>Oliveira2013</key>
+			<notes></notes>
+			<bib_type>phdthesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Kalibro: interpretação de métricas de código-fonte</bib_title>
+			<bib_authors>Oliveira, Carlos Morais de</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="school">Universidade de São Paulo</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Understanding structural complexity evolution: A quantitative analysis.pdf</relative_filename>
+			<key>Terceiro2012Understanding</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Understanding structural complexity evolution: A quantitative analysis</bib_title>
+			<bib_authors>Terceiro, Antonio and Mendonça, Manoel and Chavez, Christina and Cruzes, Daniela S.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>85-94</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Maintenance and Reengineering (CSMR), 2012 16th European Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Reference values for object-oriented software metrics.pdf</relative_filename>
+			<key>Ferreira2009</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Reference values for object-oriented software metrics</bib_title>
+			<bib_authors>Ferreira, Kecia AM and Bigonha, Mariza AS and Bigonha, Roberto S. and Almeida, Heitor C. and Mendes, Luiz FO</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>62-72</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Engineering, 2009. SBES’09. XXIII Brazilian Symposium on</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lorenz1994</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Object-oriented software metrics: a practical guide</bib_title>
+			<bib_authors>Lorenz, Mark and Kidd, Jeff</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1994</bib_year>
+			<bib_extra key="publisher">Prentice-Hall, Inc.</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A study of the relationships between source code metrics and attractiveness in free software projects.pdf</relative_filename>
+			<key>Meirelles2010</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A study of the relationships between source code metrics and attractiveness in free software projects</bib_title>
+			<bib_authors>Meirelles, Paulo and Santos Jr, Carlos and Miranda, Joao and Kon, Fabio and Terceiro, Antonio and Chavez, Christina</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>11-20</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Engineering (SBES), 2010 Brazilian Symposium on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Kalibro: Uma ferramenta de configuraçao e interpretaçao de métricas de código-fonte.pdf</relative_filename>
+			<key>Morais2009</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Kalibro: Uma ferramenta de configuraçao e interpretaçao de métricas de código-fonte</bib_title>
+			<bib_authors>Morais, Carlos and Meirelles, Paulo and Kon, Fabio</bib_authors>
+			<bib_journal>Undergraduation course conclusion project, Universidade de Sao Paulo</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Why Source Code Analysis and Manipulation Will Always Be Important.pdf</relative_filename>
+			<key>Harman2010</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Why source code analysis and manipulation will always be important</bib_title>
+			<bib_authors>Harman, Mark</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>7-19</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Source Code Analysis and Manipulation (SCAM), 2010 10th IEEE Working Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software metrics.pdf</relative_filename>
+			<key>Mills1988</key>
+			<notes></notes>
+			<bib_type>techreport</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software metrics</bib_title>
+			<bib_authors>Mills, Everald E.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="Publisher">DTIC Document</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/On the Modularity of Aspect-Oriented Design: A Concern-Driven Measurement Approach.pdf</relative_filename>
+			<key>Sant2008</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>On the modularity of aspect-oriented design: A concern-driven measurement approach</bib_title>
+			<bib_authors>Sant’Anna, Cláudio Nogueira</bib_authors>
+			<bib_journal>Pontifica Universidade Catolica do Rio de Janeiro. Computer Science Department., Rio de Janeiro, PhD Thesis</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2008</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/An Evaluation of the MOOD Set of Object-Oriented Software Metrics.pdf</relative_filename>
+			<key>Harrison1998</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An evaluation of the MOOD set of object-oriented software metrics</bib_title>
+			<bib_authors>Harrison, Rachel and Counsell, Steve J. and Nithi, Reuben V.</bib_authors>
+			<bib_journal>IEEE Transactions on Software Engineering</bib_journal>
+			<bib_volume>24</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>491-496</bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Using Coupling Measurement for Impact Analysis in Object-Oriented Systems.pdf</relative_filename>
+			<key>Briand1999</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Using coupling measurement for impact analysis in object-oriented systems</bib_title>
+			<bib_authors>Briand, Lionel C. and Wust, Jurgen and Lounis, Hakim</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>475-482</bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Maintenance, 1999.(ICSM’99) Proceedings. IEEE International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/Software Metrics, A Rigorous and Practical Approach [3rd 2015].pdf</relative_filename>
+			<key>Fenton2014</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software metrics: a rigorous and practical approach</bib_title>
+			<bib_authors>Fenton, Norman and Bieman, James</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="publisher">CRC Press</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Comparing Software Metrics Tools.pdf</relative_filename>
+			<key>Lincke2008</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Comparing software metrics tools</bib_title>
+			<bib_authors>Lincke, Rüdiger and Lundberg, Jonas and Löwe, Welf</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>131-142</bib_pages>
+			<bib_year>2008</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="booktitle">Proceedings of the 2008 international symposium on Software testing and analysis</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Using Dependence Graphs for Slicing Functional Programs.pdf</relative_filename>
+			<key>Zaytsev2015</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Using Dependence Graphs for Slicing Functional Programs</bib_title>
+			<bib_authors>Zaytsev, Vadim</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Clements2002</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A practical method for documenting software architectures</bib_title>
+			<bib_authors>Clements, Paul C. and Bachmann, Felix and Bass, Len and Garlan, David and Ivers, James and Little, Reed and Nord, Robert and Stafford, Judith</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2002</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/The evolution matrix: Recovering software evolution using software visualization techniques.pdf</relative_filename>
+			<key>Lanza2001</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The evolution matrix: Recovering software evolution using software visualization techniques</bib_title>
+			<bib_authors>Lanza, Michele</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>37-42</bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="booktitle">Proceedings of the 4th international workshop on principles of software evolution</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Exploring the structure of complex software designs An empirical study of open source and proprietary code.pdf</relative_filename>
+			<key>Maccormack2006</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Exploring the structure of complex software designs: An empirical study of open source and proprietary code</bib_title>
+			<bib_authors>MacCormack, Alan and Rusnak, John and Baldwin, Carliss Y.</bib_authors>
+			<bib_journal>Management Science</bib_journal>
+			<bib_volume>52</bib_volume>
+			<bib_number>7</bib_number>
+			<bib_pages>1015-1030</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Publisher">INFORMS</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Concern-based cohesion: Unveiling a hidden dimension of cohesion measurement.pdf</relative_filename>
+			<key>Silva2012</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Concern-based cohesion: Unveiling a hidden dimension of cohesion measurement</bib_title>
+			<bib_authors>Silva, Bruno and Sant’Anna, Claudio and Chavez, Christina and Garcia, Alessandro</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>103-112</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Program Comprehension (ICPC), 2012 IEEE 20th International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Semi-Automatic Evaluation of Free Software Projects: A Source Code Perspective.pdf</relative_filename>
+			<key>Meirelles2011</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Semi-Automatic Evaluation of Free Software Projects: A Source Code Perspective</bib_title>
+			<bib_authors>Meirelles, Paulo and Kon, Fabio and Santos Jr, Carlos</bib_authors>
+			<bib_journal>Salvador, Brazil</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>42</bib_pages>
+			<bib_year>2011</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Amaral2009</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Análise de evolucao de projetos de software livre através de matrizes de evolucao</bib_title>
+			<bib_authors>Amaral, V.</bib_authors>
+			<bib_journal>Undergraduation course conclusion project, Universidade Federal da Bahia</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Costa2009</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Extração de informações de dependência entre módulos de programas C/C++</bib_title>
+			<bib_authors>Costa, Joenio</bib_authors>
+			<bib_journal>Undergraduation course conclusion project, Universidade Católica do Salvador</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Books/Towards a metrics suite for object oriented design.pdf</relative_filename>
+			<key>Chidamber1991</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Towards a metrics suite for object oriented design</bib_title>
+			<bib_authors>Chidamber, Shyam R. and Kemerer, Chris F.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>26</bib_volume>
+			<bib_number>11</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1991</bib_year>
+			<bib_extra key="publisher">ACM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/OO design quality metrics.pdf</relative_filename>
+			<key>Martin1994</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>OO design quality metrics</bib_title>
+			<bib_authors>Martin, Robert</bib_authors>
+			<bib_journal>An analysis of dependencies</bib_journal>
+			<bib_volume>12</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>151-170</bib_pages>
+			<bib_year>1994</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Identifying thresholds for object-oriented software metrics.pdf</relative_filename>
+			<key>Ferreira2012</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Identifying thresholds for object-oriented software metrics</bib_title>
+			<bib_authors>Ferreira, Kecia AM and Bigonha, Mariza AS and Bigonha, Roberto S. and Mendes, Luiz FO and Almeida, Heitor C.</bib_authors>
+			<bib_journal>Journal of Systems and Software</bib_journal>
+			<bib_volume>85</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>244-257</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A unified framework for coupling measurement in object-oriented systems.pdf</relative_filename>
+			<key>Briand1999Unified</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A unified framework for coupling measurement in object-oriented systems</bib_title>
+			<bib_authors>Briand, Lionel C. and Daly, John W. and Wust, Jurgen K.</bib_authors>
+			<bib_journal>IEEE Transactions on software Engineering</bib_journal>
+			<bib_volume>25</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>91-121</bib_pages>
+			<bib_year>1999</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/On the modularity of software architectures: A concern-driven measurement framework.pdf</relative_filename>
+			<key>Sant2007</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>On the modularity of software architectures: A concern-driven measurement framework</bib_title>
+			<bib_authors>Sant’Anna, Cláudio and Figueiredo, Eduardo and Garcia, Alessandro and Lucena, Carlos JP</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>207-224</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Author:corp">Springer</bib_extra>
+			<bib_extra key="booktitle">European Conference on Software Architecture</bib_extra>
 		</doc>
 	</doclist>
 </library>
