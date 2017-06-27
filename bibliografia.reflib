@@ -371,7 +371,7 @@
 			<bib_extra key="url">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.3710&amp;rep=rep1&amp;type=pdf</bib_extra>
 		</doc>
 		<doc>
-			<filename></filename>
+			<relative_filename>Papers/Maintenance metrics for the object oriented paradigm.pdf</relative_filename>
 			<key>Li1993</key>
 			<notes></notes>
 			<tagged>1</tagged>
@@ -1465,20 +1465,6 @@ Code Clones</bib_title>
 			<bib_year>1994</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>Papers/A Mapping Study on Software Product Lines Testing Tools.pdf</relative_filename>
-			<key>AMappingStud</key>
-			<notes></notes>
-			<bib_type>Article</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>A Mapping Study on Software Product Lines Testing Tools</bib_title>
-			<bib_authors></bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2011</bib_year>
-		</doc>
-		<doc>
 			<relative_filename>Papers/Técnicas de Visualização para Avaliação e Melhoria de Qualidade de Software Livre e Aberto.pdf</relative_filename>
 			<key>Rafael</key>
 			<notes></notes>
@@ -1889,20 +1875,6 @@ Graph-based Schemas</bib_title>
 			<bib_year>2009</bib_year>
 		</doc>
 		<doc>
-			<relative_filename>Papers/Mining version histories to guide software changes.pdf</relative_filename>
-			<key>Miningversion</key>
-			<notes></notes>
-			<bib_type>Article</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>Mining version histories to guide software changes</bib_title>
-			<bib_authors></bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2004</bib_year>
-		</doc>
-		<doc>
 			<relative_filename>Papers/Free-Libre-Open Source Metrics and Benchmarking - FLOSSMetrics Final Report.pdf</relative_filename>
 			<key>Free-Libre-Ope</key>
 			<notes></notes>
@@ -2065,20 +2037,6 @@ Graph-based Schemas</bib_title>
 			<bib_extra key="Url">http://dblp.org/db/conf/sbes/sbes2011.html\#LeiteBL11</bib_extra>
 		</doc>
 		<doc>
-			<relative_filename>Papers/A software product lines system test case tool and its initial evaluation.pdf</relative_filename>
-			<key>Asoftwarepro</key>
-			<notes></notes>
-			<bib_type>Article</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>A software product lines system test case tool and its initial evaluation</bib_title>
-			<bib_authors></bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2012</bib_year>
-		</doc>
-		<doc>
 			<relative_filename>Papers/Preliminary Guidelines for Empirical Research in Software Engineering.pdf</relative_filename>
 			<key>PreliminaryGu</key>
 			<notes></notes>
@@ -2167,20 +2125,6 @@ Graph-based Schemas</bib_title>
 			<bib_number></bib_number>
 			<bib_pages></bib_pages>
 			<bib_year></bib_year>
-		</doc>
-		<doc>
-			<relative_filename>Papers/Semantic clustering Identifying topics in source code.pdf</relative_filename>
-			<key>Semanticclust</key>
-			<notes></notes>
-			<bib_type>Article</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>Semantic clustering Identifying topics in source code</bib_title>
-			<bib_authors></bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year>2000</bib_year>
 		</doc>
 		<doc>
 			<relative_filename>Papers/Linux as a case study its extracted software architecture.pdf</relative_filename>
@@ -2671,21 +2615,6 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_extra key="Url">http://dblp.org/db/journals/procedia/procedia4.html#KauppinenE11</bib_extra>
 		</doc>
 		<doc>
-			<filename></filename>
-			<key>ScienceCodeManifesto</key>
-			<notes></notes>
-			<bib_type>unpublished</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>Science Code Manifesto</bib_title>
-			<bib_authors>Nick Barnes and Peter Norvig and Rufus Pollock and Victoria Stodden and David Jones and Cameron Neylon and Joseph Jackson and Peter Suber</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year></bib_year>
-			<bib_extra key="Url">http://sciencecodemanifesto.org/</bib_extra>
-		</doc>
-		<doc>
 			<relative_filename>Papers/Reproducible Research.pdf</relative_filename>
 			<key>Fomel2009</key>
 			<notes></notes>
@@ -2787,21 +2716,6 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_pages>13</bib_pages>
 			<bib_year>2014</bib_year>
 			<bib_extra key="pmid">24600387</bib_extra>
-		</doc>
-		<doc>
-			<filename></filename>
-			<key>Barnes2013</key>
-			<notes></notes>
-			<bib_type>misc</bib_type>
-			<bib_doi></bib_doi>
-			<bib_title>Science code manifesto</bib_title>
-			<bib_authors>Barnes, N and others</bib_authors>
-			<bib_journal></bib_journal>
-			<bib_volume></bib_volume>
-			<bib_number></bib_number>
-			<bib_pages></bib_pages>
-			<bib_year></bib_year>
-			<bib_extra key="Url">http://sciencecodemanifesto.org</bib_extra>
 		</doc>
 		<doc>
 			<filename></filename>
@@ -3492,7 +3406,7 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_extra key="publisher">Pearson Education</bib_extra>
 		</doc>
 		<doc>
-			<filename></filename>
+			<relative_filename>Papers/The structural complexity of software: An experimental test.pdf</relative_filename>
 			<key>Darcy2005</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -3537,7 +3451,7 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_extra key="Publisher">ACM</bib_extra>
 		</doc>
 		<doc>
-			<filename></filename>
+			<relative_filename>Papers/Decomposition of inheritance hierarchy DAGs for object-oriented software metrics.pdf</relative_filename>
 			<key>Shih1997</key>
 			<notes></notes>
 			<bib_type>inproceedings</bib_type>
@@ -3553,7 +3467,7 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_extra key="booktitle">Engineering of Computer-Based Systems, 1997. Proceedings., International Conference and Workshop on</bib_extra>
 		</doc>
 		<doc>
-			<filename></filename>
+			<relative_filename>Papers/Software quality metrics for object-oriented environments.pdf</relative_filename>
 			<key>Rosenberg1997</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -4042,7 +3956,7 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_extra key="Url">https://www.grammatech.com/products/source-code-analysis</bib_extra>
 		</doc>
 		<doc>
-			<filename></filename>
+			<relative_filename>Papers/Automated Metrics and Object-Oriented Development.pdf</relative_filename>
 			<key>Jagdish1997</key>
 			<notes></notes>
 			<bib_type>article</bib_type>
@@ -4505,6 +4419,1338 @@ Case Study: A source code comprehension tool.pdf</relative_filename>
 			<bib_year>2007</bib_year>
 			<bib_extra key="Author:corp">Springer</bib_extra>
 			<bib_extra key="booktitle">European Conference on Software Architecture</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Reestruturação de software dirigida por conectividade para redução de custo de manutenção.pdf</relative_filename>
+			<key>Ferreira2008</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Reestruturação de software dirigida por conectividade para redução de custo de manutenção</bib_title>
+			<bib_authors>Ferreira, Kecia Aline M. and Bigonha, Mariza AS and Bigonha, Roberto S.</bib_authors>
+			<bib_journal>Revista de Informática Teórica e Aplicada</bib_journal>
+			<bib_volume>15</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>155-180</bib_pages>
+			<bib_year>2008</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Books/Complexity - A Guided Tour [2009].pdf</relative_filename>
+			<key>Mitchell2009</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Complexity: A guided tour</bib_title>
+			<bib_authors>Mitchell, Melanie</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="publisher">Oxford University Press</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/The sciences of the artificial [1996].pdf</relative_filename>
+			<key>Simon1996</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The sciences of the artificial</bib_title>
+			<bib_authors>Simon, Herbert A.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="publisher">MIT press</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A software complexity model of object-oriented systems.pdf</relative_filename>
+			<key>Tegarden1995</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A software complexity model of object-oriented systems</bib_title>
+			<bib_authors>Tegarden, David P. and Sheetz, Steven D. and Monarchi, David E.</bib_authors>
+			<bib_journal>Decision Support Systems</bib_journal>
+			<bib_volume>13</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>241-262</bib_pages>
+			<bib_year>1995</bib_year>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/Object-oriented metrics in practice: using software metrics to characterize, evaluate, and improve the design of object-oriented systems.pdf</relative_filename>
+			<key>Lanza2007</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Object-oriented metrics in practice: using software metrics to characterize, evaluate, and improve the design of object-oriented systems</bib_title>
+			<bib_authors>Lanza, Michele and Marinescu, Radu</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="publisher">Springer Science \&amp; Business Media</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/When do Software Complexity Metrics Mean Nothing?–When Examined out of Context.pdf</relative_filename>
+			<key>Gil2016</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>When do Software Complexity Metrics Mean Nothing?–When Examined out of Context</bib_title>
+			<bib_authors>Gil, Joseph Yossi and Lalouche, Gal</bib_authors>
+			<bib_journal>Journal of Object Technology</bib_journal>
+			<bib_volume>15</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Power-law distributions in empirical data.pdf</relative_filename>
+			<key>Clauset2009</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Power-law distributions in empirical data</bib_title>
+			<bib_authors>Clauset, Aaron and Shalizi, Cosma Rohilla and Newman, Mark EJ</bib_authors>
+			<bib_journal>SIAM review</bib_journal>
+			<bib_volume>51</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>661-703</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Publisher">SIAM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Power law distributions in class relationships.pdf</relative_filename>
+			<key>Wheeldon2003</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Power law distributions in class relationships</bib_title>
+			<bib_authors>Wheeldon, Richard and Counsell, Steve</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>45-54</bib_pages>
+			<bib_year>2003</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Source Code Analysis and Manipulation, 2003. Proceedings. Third IEEE International Workshop on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Scale-free geometry in OO programs.pdf</relative_filename>
+			<key>Potanin2005</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Scale-free geometry in OO programs</bib_title>
+			<bib_authors>Potanin, Alex and Noble, James and Frean, Marcus and Biddle, Robert</bib_authors>
+			<bib_journal>Communications of the ACM</bib_journal>
+			<bib_volume>48</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>99-103</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Publisher">ACM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Power-laws in a large object-oriented software system.pdf</relative_filename>
+			<key>Concas2007</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Power-laws in a large object-oriented software system</bib_title>
+			<bib_authors>Concas, Giulio and Marchesi, Michele and Pinna, Sandro and Serra, Nicola</bib_authors>
+			<bib_journal>IEEE Transactions on Software Engineering</bib_journal>
+			<bib_volume>33</bib_volume>
+			<bib_number>10</bib_number>
+			<bib_pages>687-708</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Scale-free property in large scale object-oriented software and its significance on software engineering.pdf</relative_filename>
+			<key>Yao2009</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Scale-free property in large scale object-oriented software and its significance on software engineering</bib_title>
+			<bib_authors>Yao, Yi and Huang, Song and Ren, Zheng-ping and Liu, Xiao-ming</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>3</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>401-404</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">2009 Second International Conference on Information and Computing Science</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Understanding the shape of Java software.pdf</relative_filename>
+			<key>Baxter2006</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Understanding the shape of Java software</bib_title>
+			<bib_authors>Baxter, Gareth and Frean, Marcus and Noble, James and Rickerby, Mark and Smith, Hayden and Visser, Matt and Melton, Hayden and Tempero, Ewan</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>41</bib_volume>
+			<bib_number>10</bib_number>
+			<bib_pages>397-412</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="booktitle">ACM Sigplan Notices</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/On the Distribution of Source Code File Sizes.pdf</relative_filename>
+			<key>Herraiz2011</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>On the Distribution of Source Code File Sizes</bib_title>
+			<bib_authors>Herraiz, Israel and German, Daniel M. and Hassan, Ahmed E.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>5-14</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="booktitle">ICSOFT (2)</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/On the statistical distribution of object-oriented system properties.pdf</relative_filename>
+			<key>Herraiz2012</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>On the statistical distribution of object-oriented system properties</bib_title>
+			<bib_authors>Herraiz, Israel and Rodriguez, Daniel and Harrison, Rachel</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>56-62</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">2012 3rd International Workshop on Emerging Trends in Software Metrics (WETSoM)</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Object-oriented metrics: A review of theory and practice.PDF</relative_filename>
+			<key>El2001</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Object-oriented metrics: A review of theory and practice</bib_title>
+			<bib_authors>El-Emam, Khaled</bib_authors>
+			<bib_journal>Institute for Information Technology</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2001</bib_year>
+			<bib_extra key="Institution">National Research Council Canada</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Design metrics in practice.pdf</relative_filename>
+			<key>Kitchenham1990</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Design metrics in practice</bib_title>
+			<bib_authors>Kitchenham, Barbara A. and Linkman, S. J.</bib_authors>
+			<bib_journal>Information and Software Technology</bib_journal>
+			<bib_volume>32</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>304-310</bib_pages>
+			<bib_year>1990</bib_year>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Thresholds for Size and Complexity Metrics: A Case Study from the Perspective of Defect Density.pdf</relative_filename>
+			<key>Yamashita2016</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Thresholds for Size and Complexity Metrics: A Case Study from the Perspective of Defect Density</bib_title>
+			<bib_authors>Yamashita, Kazuhiro and Huang, Changyun and Nagappan, Meiyappan and Kamei, Yasutaka and Mockus, Audris and Hassan, Ahmed E. and Ubayashi, Naoyasu</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>191-201</bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Quality, Reliability and Security (QRS), 2016 IEEE International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/How does context affect the distribution of software maintainability metrics?.pdf</relative_filename>
+			<key>Zhang2013</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>How does context affect the distribution of software maintainability metrics?</bib_title>
+			<bib_authors>Zhang, Feng and Mockus, Audris and Zou, Ying and Khomh, Foutse and Hassan, Ahmed E.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>350-359</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Author:corp">Citeseer</bib_extra>
+			<bib_extra key="booktitle">ICSM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Metrics for Feature-Oriented Programming.pdf</relative_filename>
+			<key>Abilio2016</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Metrics for feature-oriented programming</bib_title>
+			<bib_authors>Abilio, Ramon and Vale, Gustavo and Figueiredo, Eduardo and Costa, Heitor</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>36-42</bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="booktitle">Proceedings of the 7th International Workshop on Emerging Trends in Software Metrics</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Validating metric thresholds with developers: An early result.pdf</relative_filename>
+			<key>Oliveira2015</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Validating metric thresholds with developers: An early result</bib_title>
+			<bib_authors>Oliveira, Paloma and Valente, Marco Tulio and Bergel, Alexandre and Serebrenik, Alexander</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>546-550</bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Maintenance and Evolution (ICSME), 2015 IEEE International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Finding software metrics threshold values using ROC curves.pdf</relative_filename>
+			<key>Shatnawi2010</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Finding software metrics threshold values using ROC curves</bib_title>
+			<bib_authors>Shatnawi, Raed and Li, Wei and Swain, James and Newman, Tim</bib_authors>
+			<bib_journal>Journal of software maintenance and evolution: Research and practice</bib_journal>
+			<bib_volume>22</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>1-16</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Publisher">Wiley Online Library</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A Quantitative Investigation Of Software Metrics Threshold Values At Acceptable Risk Level.pdf</relative_filename>
+			<key>Kaur2013</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Quantitative Investigation Of Software Metrics Threshold Values At Acceptable Risk Level</bib_title>
+			<bib_authors>Kaur, Sarabjit and Singh, Satwinder and Kaur, Harshpreet</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>2</bib_volume>
+			<bib_number>3 (March-2013)</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Author:corp">ESRSA Publications</bib_extra>
+			<bib_extra key="booktitle">International Journal of Engineering Research and Technology</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Managerial use of metrics for object-oriented software: An exploratory analysis.pdf</relative_filename>
+			<key>Chidamber1998</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Managerial use of metrics for object-oriented software: An exploratory analysis</bib_title>
+			<bib_authors>Chidamber, Shyam R. and Darcy, David P. and Kemerer, Chris F.</bib_authors>
+			<bib_journal>IEEE Transactions on software Engineering</bib_journal>
+			<bib_volume>24</bib_volume>
+			<bib_number>8</bib_number>
+			<bib_pages>629-639</bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/PMBOK 4th edition.pdf</relative_filename>
+			<key>Pmbok2013</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Um guia do conhecimento em gerenciamento de projetos</bib_title>
+			<bib_authors>PMBOK, GUIDE</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Publisher">Newton Square (USA): Project Management Institute-PMI</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/An investigation of ck metrics thresholds.pdf</relative_filename>
+			<key>Shatnawi2006</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An investigation of ck metrics thresholds</bib_title>
+			<bib_authors>Shatnawi, Raed</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>12-13</bib_pages>
+			<bib_year>2006</bib_year>
+			<bib_extra key="booktitle">ISSRE Supplementary Conference Proceedings</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Mining version histories to guide software changes.pdf</relative_filename>
+			<key>Zimmermann2005</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Mining version histories to guide software changes</bib_title>
+			<bib_authors>Zimmermann, Thomas and Zeller, Andreas and Weissgerber, Peter and Diehl, Stephan</bib_authors>
+			<bib_journal>IEEE Transactions on Software Engineering</bib_journal>
+			<bib_volume>31</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>429-445</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Semantic clustering Identifying topics in source code.pdf</relative_filename>
+			<key>Kuhn2007</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Semantic clustering: Identifying topics in source code</bib_title>
+			<bib_authors>Kuhn, Adrian and Ducasse, Stéphane and Gírba, Tudor</bib_authors>
+			<bib_journal>Information and Software Technology</bib_journal>
+			<bib_volume>49</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>230-243</bib_pages>
+			<bib_year>2007</bib_year>
+			<bib_extra key="Publisher">Elsevier</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/The optimal class size for object-oriented software.pdf</relative_filename>
+			<key>El2002</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The optimal class size for object-oriented software</bib_title>
+			<bib_authors>El Emam, Khaled and Benlarbi, Saïda and Goel, Nishith and Melo, Walcelio and Lounis, Hakim and Rai, Shesh N.</bib_authors>
+			<bib_journal>IEEE Transactions on software engineering</bib_journal>
+			<bib_volume>28</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>494-509</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software metrics model for quality control.pdf</relative_filename>
+			<key>Schneidewind1997</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software metrics model for quality control</bib_title>
+			<bib_authors>Schneidewind, Norman F.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>127-136</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Metrics Symposium, 1997. Proceedings., Fourth International</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Calculation and optimization of thresholds for sets of software metrics.pdf</relative_filename>
+			<key>Herbold2011</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Calculation and optimization of thresholds for sets of software metrics</bib_title>
+			<bib_authors>Herbold, Steffen and Grabowski, Jens and Waack, Stephan</bib_authors>
+			<bib_journal>Empirical Software Engineering</bib_journal>
+			<bib_volume>16</bib_volume>
+			<bib_number>6</bib_number>
+			<bib_pages>812-841</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Publisher">Springer</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Analyzing Java software by combining metrics and program visualization.pdf</relative_filename>
+			<key>Systa2000</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Analyzing Java software by combining metrics and program visualization</bib_title>
+			<bib_authors>Systa, Tarja and Yu, Ping and Muller, Hausi</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>199-208</bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Maintenance and Reengineering, 2000. Proceedings of the Fourth European</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/The design structure system: A method for managing the design of complex systems.pdf</relative_filename>
+			<key>Steward1981</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The design structure system: A method for managing the design of complex systems</bib_title>
+			<bib_authors>Steward, Donald V.</bib_authors>
+			<bib_journal>IEEE transactions on Engineering Management</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>71-74</bib_pages>
+			<bib_year>1981</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/Design rules: The power of modularity.pdf</relative_filename>
+			<key>Baldwin2000</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Design rules: The power of modularity</bib_title>
+			<bib_authors>Baldwin, Carliss Young and Clark, Kim B.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>1</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2000</bib_year>
+			<bib_extra key="publisher">MIT press</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Characterizing complex product architectures.pdf</relative_filename>
+			<key>Sharman2004</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Characterizing complex product architectures</bib_title>
+			<bib_authors>Sharman, David M. and Yassine, Ali A.</bib_authors>
+			<bib_journal>Systems Engineering</bib_journal>
+			<bib_volume>7</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>35-60</bib_pages>
+			<bib_year>2004</bib_year>
+			<bib_extra key="Publisher">Wiley Online Library</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Binary matrices in system modeling.pdf</relative_filename>
+			<key>Warfield1973</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Binary matrices in system modeling</bib_title>
+			<bib_authors>Warfield, John N.</bib_authors>
+			<bib_journal>IEEE Transactions on Systems, Man, and Cybernetics</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>441-449</bib_pages>
+			<bib_year>1973</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Design evolution of an open source project using an improved modularity metric.pdf</relative_filename>
+			<key>Milev2009</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Design evolution of an open source project using an improved modularity metric</bib_title>
+			<bib_authors>Milev, Roberto and Muegge, Steven and Weiss, Michael</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>20-33</bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Author:corp">Springer</bib_extra>
+			<bib_extra key="booktitle">IFIP International Conference on Open Source Systems</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Decoupling level: a new metric for architectural maintenance complexity.pdf</relative_filename>
+			<key>Mo2016</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Decoupling level: a new metric for architectural maintenance complexity</bib_title>
+			<bib_authors>Mo, Ran and Cai, Yuanfang and Kazman, Rick and Xiao, Lu and Feng, Qiong</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>499-510</bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="booktitle">Proceedings of the 38th International Conference on Software Engineering</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Model-based approaches to managing concurrent engineering.pdf</relative_filename>
+			<key>Eppinger1991</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Model-based approaches to managing concurrent engineering</bib_title>
+			<bib_authors>Eppinger, Steven D.</bib_authors>
+			<bib_journal>Journal of Engineering Design</bib_journal>
+			<bib_volume>2</bib_volume>
+			<bib_number>4</bib_number>
+			<bib_pages>283-290</bib_pages>
+			<bib_year>1991</bib_year>
+			<bib_extra key="Publisher">Taylor \&amp; Francis</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Design structure matrix extensions and innovations: a survey and new opportunities.pdf</relative_filename>
+			<key>Browning2016</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Design structure matrix extensions and innovations: a survey and new opportunities</bib_title>
+			<bib_authors>Browning, Tyson R.</bib_authors>
+			<bib_journal>IEEE Transactions on Engineering Management</bib_journal>
+			<bib_volume>63</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages>27-52</bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A critique of cyclomatic complexity as a software metric.pdf</relative_filename>
+			<key>Shepperd1988</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A critique of cyclomatic complexity as a software metric</bib_title>
+			<bib_authors>Shepperd, Martin</bib_authors>
+			<bib_journal>Software Engineering Journal</bib_journal>
+			<bib_volume>3</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>30-36</bib_pages>
+			<bib_year>1988</bib_year>
+			<bib_extra key="Publisher">IET</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Applying and interpreting object oriented metrics.pdf</relative_filename>
+			<key>Rosenberg1998</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Applying and interpreting object oriented metrics</bib_title>
+			<bib_authors>Rosenberg, Linda H.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1998</bib_year>
+			<bib_extra key="Publisher">NASA Software Assurance Technology Center (SACT)</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/Documenting Software Architecture (2 edition).pdf</relative_filename>
+			<key>Clements2002Book</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Documenting software architectures: views and beyond</bib_title>
+			<bib_authors>Clements, Paul and Garlan, David and Bass, Len and Stafford, Judith and Nord, Robert and Ivers, James and Little, Reed</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="publisher">Pearson Education</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/C Completo e Total.pdf</relative_filename>
+			<key>Shildt1996</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>C, Completo E Total–3ª edição Revista e Atualizada</bib_title>
+			<bib_authors>SHILDT, HERBERT</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Publisher">Makron Books</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>Lima2014</key>
+			<notes></notes>
+			<bib_type>phdthesis</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Uma análise dos valores de referência de algumas medidas de software</bib_title>
+			<bib_authors>Lima, Eudes de Castro</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="school">Universidade Federal de Lavras</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A Survey of Key Factors Affecting Software Maintainability.pdf</relative_filename>
+			<key>kumar2012survey</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A survey of key factors affecting software maintainability</bib_title>
+			<bib_authors>Kumar, Balraj</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>261-266</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Computing Sciences (ICCS), 2012 International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/An Integrated Measure of Software Maintainability.pdf</relative_filename>
+			<key>aggarwal2002integrated</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An integrated measure of software maintainability</bib_title>
+			<bib_authors>Aggarwal, Krishan K. and Singh, Yogesh and Chhabra, Jitender Kumar</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>235-241</bib_pages>
+			<bib_year>2002</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Reliability and maintainability symposium, 2002. Proceedings. Annual</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Research trends in structural software complexity.pdf</relative_filename>
+			<key>mens2016research</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Research trends in structural software complexity</bib_title>
+			<bib_authors>Mens, Tom</bib_authors>
+			<bib_journal>arXiv preprint arXiv:1608.01533</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A software maintainability attributes model.pdf</relative_filename>
+			<key>hashim1996software</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A software maintainability attributes model</bib_title>
+			<bib_authors>Hashim, Khairuddin and Key, Elizabeth</bib_authors>
+			<bib_journal>Malaysian Journal of Computer Science</bib_journal>
+			<bib_volume>9</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>92-97</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Publisher">Faculty of Computer Science \&amp; Information Technology</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Books/Evidence-based software engineering and systematic reviews - CRC Press .pdf</relative_filename>
+			<key>kitchenham2015evidence</key>
+			<notes></notes>
+			<bib_type>book</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Evidence-Based Software engineering and systematic reviews</bib_title>
+			<bib_authors>Kitchenham, Barbara Ann and Budgen, David and Brereton, Pearl</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>4</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="publisher">CRC Press</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Predicting Maintainability with Object-Oriented Metrics - An Empirical Comparison.pdf</relative_filename>
+			<key>Dagpinar2003</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Predicting maintainability with object-oriented metrics - an empirical comparison</bib_title>
+			<bib_authors>Melis Dagpinar and Jens H. Jahnke</bib_authors>
+			<bib_journal>10th WCRE Proceedings</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2003</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software Mining Studies: Goals, Approaches, Artifacts, and Replicability.pdf</relative_filename>
+			<key>amann2015software</key>
+			<notes></notes>
+			<bib_type>incollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software Mining Studies: Goals, Approaches, Artifacts, and Replicability</bib_title>
+			<bib_authors>Amann, Sven and Beyer, Stefanie and Kevic, Katja and Gall, Harald</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>121-158</bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="booktitle">Software Engineering</bib_extra>
+			<bib_extra key="publisher">Springer</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Taming the Static Analysis Beast.pdf</relative_filename>
+			<key>toman2017taming</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Taming the Static Analysis Beast</bib_title>
+			<bib_authors>Toman, John and Grossman, Dan</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>71</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2017</bib_year>
+			<bib_extra key="Author:corp">Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik</bib_extra>
+			<bib_extra key="booktitle">LIPIcs-Leibniz International Proceedings in Informatics</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Static Code Analysis: A Systematic Literature Review and an Industrial Survey.pdf</relative_filename>
+			<key>ilyas2016static</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Static Code Analysis: A Systematic Literature Review and an Industrial Survey</bib_title>
+			<bib_authors>Ilyas, Bilal and Elkhalifa, Islam</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Replicating MSR: A study of the potential replicability of papers published in the Mining Software Repositories proceedings.pdf</relative_filename>
+			<key>robles2010replicating</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Replicating MSR: A study of the potential replicability of papers published in the Mining Software Repositories proceedings</bib_title>
+			<bib_authors>Robles, Gregorio</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>171-180</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Mining Software Repositories (MSR), 2010 7th IEEE Working Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/On the reproducibility of empirical software engineering studies based on data retrieved from development repositories.pdf</relative_filename>
+			<key>gonzalez2012reproducibility</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>On the reproducibility of empirical software engineering studies based on data retrieved from development repositories</bib_title>
+			<bib_authors>González-Barahona, Jesús M. and Robles, Gregorio</bib_authors>
+			<bib_journal>Empirical Software Engineering</bib_journal>
+			<bib_volume>17</bib_volume>
+			<bib_number>1-2</bib_number>
+			<bib_pages>75-89</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Publisher">Springer</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/On the Shoulders of Giants.pdf</relative_filename>
+			<key>barr2010shoulders</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>On the shoulders of giants</bib_title>
+			<bib_authors>Barr, Earl and Bird, Christian and Hyatt, Eric and Menzies, Tim and Robles, Gregorio</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>23-28</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Author:corp">ACM</bib_extra>
+			<bib_extra key="booktitle">Proceedings of the FSE/SDP workshop on Future of software engineering research</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Would wider adoption of reproducible research be beneficial for empirical software engineering research?.pdf</relative_filename>
+			<key>madeyski2017would</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Would wider adoption of reproducible research be beneficial for empirical software engineering research?</bib_title>
+			<bib_authors>Madeyski, Lech and Kitchenham, Barbara</bib_authors>
+			<bib_journal>Journal of Intelligent \&amp; Fuzzy Systems</bib_journal>
+			<bib_volume>32</bib_volume>
+			<bib_number>2</bib_number>
+			<bib_pages>1509-1521</bib_pages>
+			<bib_year>2017</bib_year>
+			<bib_extra key="Publisher">IOS Press</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Replicability is not Reproducibility: Nor is it Good Science.pdf</relative_filename>
+			<key>drummond2009replicability</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Replicability is not reproducibility: nor is it good science</bib_title>
+			<bib_authors>Drummond, Chris</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Report from the 1st International Workshop on Replication in Empirical Software Engineering Research (RESER 2010).pdf</relative_filename>
+			<key>knutson2010report</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Report from the 1st international workshop on replication in empirical software engineering research (RESER 2010)</bib_title>
+			<bib_authors>Knutson, Charles D. and Krein, Jonathan L. and Prechelt, Lutz and Juristo, Natalia</bib_authors>
+			<bib_journal>ACM SIGSOFT Software Engineering Notes</bib_journal>
+			<bib_volume>35</bib_volume>
+			<bib_number>5</bib_number>
+			<bib_pages>42-44</bib_pages>
+			<bib_year>2010</bib_year>
+			<bib_extra key="Publisher">ACM</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A software product lines system test case tool and its initial evaluation.pdf</relative_filename>
+			<key>neto2012software</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A software product lines system test case tool and its initial evaluation</bib_title>
+			<bib_authors>Neto, Crescencio Rodrigues Lima and de Almeida, Eduardo Santana and de Lemos Meira, Silvio Romero</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>25-32</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Information Reuse and Integration (IRI), 2012 IEEE 13th International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Tools to support systematic literature reviews in software engineering: A mapping study.pdf</relative_filename>
+			<key>marshall2013tools</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Tools to support systematic literature reviews in software engineering: A mapping study</bib_title>
+			<bib_authors>Marshall, Christopher and Brereton, Pearl</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>296-299</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Empirical Software Engineering and Measurement, 2013 ACM/IEEE International Symposium on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Replication of empirical studies in software engineering: Preliminary findings from a systematic mapping study.pdf</relative_filename>
+			<key>da2011replication</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Replication of empirical studies in software engineering: Preliminary findings from a systematic mapping study</bib_title>
+			<bib_authors>da Silva, Fabio QB and Suassuna, Marcos and Lopes, Rodrigo F. and Gouveia, Tatiana B. and Franca, A. Cesar A. and de Oliveira, Joao Paulo N. and de Oliveira, Leonardo FM and Santos, Andre LM</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>61-70</bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Replication in Empirical Software Engineering Research (RESER), 2011 Second International Workshop on</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>kaschek1996characterization</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A characterization of OOA tools</bib_title>
+			<bib_authors>Kaschek, Roland and Mayr, Heinrich C.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>59-67</bib_pages>
+			<bib_year>1996</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="BookTitle">Assessment of Software Tools, 1996., Proceedings of the Fourth International Symposium on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Tools in mining software repositories.pdf</relative_filename>
+			<key>chaturvedi2013tools</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Tools in mining software repositories</bib_title>
+			<bib_authors>Chaturvedi, Krishna Kumar and Sing, V. B. and Singh, Prashast</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>89-98</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Computational Science and Its Applications (ICCSA), 2013 13th International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A systematic literature review of software product line management tools.pdf</relative_filename>
+			<key>pereira2015systematic</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A systematic literature review of software product line management tools</bib_title>
+			<bib_authors>Pereira, Juliana Alves and Constantino, Kattiana and Figueiredo, Eduardo</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>73-89</bib_pages>
+			<bib_year>2015</bib_year>
+			<bib_extra key="Author:corp">Springer</bib_extra>
+			<bib_extra key="booktitle">International Conference on Software Reuse</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software configuration management tools.pdf</relative_filename>
+			<key>chan1997software</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software configuration management tools</bib_title>
+			<bib_authors>Chan, Angus KF and Hung, Sheung-Iun</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>238-250</bib_pages>
+			<bib_year>1997</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Technology and Engineering Practice, 1997. Proceedings., Eighth IEEE International Workshop on [incorporating Computer Aided Software Engineering]</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Comparison and evaluation of source code mining tools and techniques: A qualitative approach.pdf</relative_filename>
+			<key>khatoon2013comparison</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Comparison and evaluation of source code mining tools and techniques: A qualitative approach</bib_title>
+			<bib_authors>Khatoon, Shaheen and Li, Guohui and Mahmood, Azhar</bib_authors>
+			<bib_journal>Intelligent Data Analysis</bib_journal>
+			<bib_volume>17</bib_volume>
+			<bib_number>3</bib_number>
+			<bib_pages>459-484</bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="Publisher">IOS Press</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/An overview of free software tools for general data mining.pdf</relative_filename>
+			<key>jovic2014overview</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>An overview of free software tools for general data mining</bib_title>
+			<bib_authors>Jovic, Alan and Brkic, Karla and Bogunovic, Nikola</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>1112-1117</bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Information and Communication Technology, Electronics and Microelectronics (MIPRO), 2014 37th International Convention on</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>neto2012mapping</key>
+			<notes></notes>
+			<bib_type>InProceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A Mapping Study on Software Product Lines Testing Tools.</bib_title>
+			<bib_authors>Neto, Crescencio Rodrigues Lima and Neto, Paulo Anselmo da Mota Silveira and de Almeida, Eduardo Santana and de Lemos Meira, Silvio Romero</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>628-634</bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="BookTitle">SEKE</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Analyzing the state of static analysis: A large-scale evaluation in open source software.pdf</relative_filename>
+			<key>beller2016analyzing</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Analyzing the state of static analysis: A large-scale evaluation in open source software</bib_title>
+			<bib_authors>Beller, Moritz and Bholanath, Radjino and McIntosh, Shane and Zaidman, Andy</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>1</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>470-481</bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Author:corp">IEEE</bib_extra>
+			<bib_extra key="booktitle">Software Analysis, Evolution, and Reengineering (SANER), 2016 IEEE 23rd International Conference on</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Engineering Academic Software (Dagstuhl Perspectives Workshop 16252).pdf</relative_filename>
+			<key>allen2017engineering</key>
+			<notes></notes>
+			<bib_type>incollection</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Engineering Academic Software (Dagstuhl Perspectives Workshop 16252)</bib_title>
+			<bib_authors>Allen, Alice and Aragon, Cecilia and Becker, Christoph and Carver, Jeffrey and Chis, Andrei and Combemale, Benoit and Croucher, Mike and Crowston, Kevin and Garijo, Daniel and Gehani, Ashish and others,</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>6</bib_volume>
+			<bib_number>1</bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2017</bib_year>
+			<bib_extra key="booktitle">Dagstuhl Manifestos</bib_extra>
+			<bib_extra key="publisher">Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/A survey of controlled experiments in software engineering.pdf</relative_filename>
+			<key>sjoberg2005survey</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>A survey of controlled experiments in software engineering</bib_title>
+			<bib_authors>Sjøberg, Dag IK and Hannay, Jo Erskine and Hansen, Ove and Kampenes, Vigdis By and Karahasanovic, Amela and Liborg, N. K. and Rekdal, Anette C.</bib_authors>
+			<bib_journal>IEEE transactions on software engineering</bib_journal>
+			<bib_volume>31</bib_volume>
+			<bib_number>9</bib_number>
+			<bib_pages>733-753</bib_pages>
+			<bib_year>2005</bib_year>
+			<bib_extra key="Publisher">IEEE</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>baker2016scientists</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Why scientists must share their research code</bib_title>
+			<bib_authors>Baker, Monya</bib_authors>
+			<bib_journal>Nature</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Url">http://dx.doi.org/10.1038/nature.2016.20504</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>barnes2013science</key>
+			<notes></notes>
+			<bib_type>Misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Science code manifesto</bib_title>
+			<bib_authors>Barnes, Nick and Jones, D. and Norvig, P. and Neylon, C. and Pollock, R. and Jackson, J. and Stodden, V. and Suber, P.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software citation principles.pdf</relative_filename>
+			<key>smith2016software</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi>10.7717/peerj-cs.86</bib_doi>
+			<bib_title>Software citation principles</bib_title>
+			<bib_authors>Smith, Arfon M. and Katz, Daniel S. and Niemeyer, Kyle E.</bib_authors>
+			<bib_journal>PeerJ Computer Science</bib_journal>
+			<bib_volume>2</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>-86</bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Abstract"> Software is a critical part of modern research and yet there is little support across the scholarly ecosystem for its acknowledgement and citation. Inspired by the activities of the FORCE11 working group focused on data citation, this document summarizes the recommendations of the FORCE11 Software Citation Working Group and its activities between June 2015 and April 2016. Based on a review of existing community practices, the goal of the working group was to produce a consolidated set of citation principles that may encourage broad adoption of a consistent policy for software citation across disciplines and venues. Our work is presented here as a set of software citation principles, a discussion of the motivations for developing the principles, reviews of existing community practice, and a discussion of the requirements these principles would place upon different stakeholders. Working examples and possible technical solutions for how these principles can be implemented will be discussed in a separate paper. </bib_extra>
+			<bib_extra key="Issn">2376-5992</bib_extra>
+			<bib_extra key="Keywords">Software citation, Software credit, Attribution</bib_extra>
+			<bib_extra key="Month">sep</bib_extra>
+			<bib_extra key="Url">https://doi.org/10.7717/peerj-cs.86</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>holcombe2011openaccess</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Open Access Pledge – Making and tracking open access pledges</bib_title>
+			<bib_authors>Alex Holcombe</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2011</bib_year>
+			<bib_extra key="note">[Online; Acessado em 02 de Junho de 2017]</bib_extra>
+			<bib_extra key="Url">http://www.openaccesspledge.com</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/The Karlskrona manifesto for sustainability design.pdf</relative_filename>
+			<key>becker2014karlskrona</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The Karlskrona manifesto for sustainability design</bib_title>
+			<bib_authors>Becker, Christoph and Chitchyan, Ruzanna and Duboc, Leticia and Easterbrook, Steve and Mahaux, Martin and Penzenstadler, Birgit and Rodríguez-Navas, Guillermo and Salinesi, Camille and Seyff, Norbert and Venters, Colin C. and Calero, Coral and Koçak, Sedef Akinli and Betz, Stefanie</bib_authors>
+			<bib_journal>CoRR</bib_journal>
+			<bib_volume>abs/1410.6968</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="Bibsource">dblp computer science bibliography, http://dblp.org</bib_extra>
+			<bib_extra key="Biburl">http://dblp.uni-trier.de/rec/bib/journals/corr/BeckerCDEMPRSSVCKB14</bib_extra>
+			<bib_extra key="Timestamp">Mon, 23 Feb 2015 17:00:03 +0100</bib_extra>
+			<bib_extra key="Url">http://arxiv.org/abs/1410.6968</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Astronomical Software Wants To Be Free: A Manifesto.pdf</relative_filename>
+			<key>weiner2009astronomical</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Astronomical Software Wants To Be Free: A Manifesto</bib_title>
+			<bib_authors>Weiner, B. and Blanton, M. R. and Coil, A. L. and Cooper, M. C. and Davé, R. and Hogg, D. W. and Holden, B. P. and Jonsson, P. and Kassin, S. A. and Lotz, J. M. and Moustakas, J. and Newman, J. A. and Prochaska, J. X. and Teuben, P. J. and Tremonti, C. A. and Willmer, C. N. A.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>2010</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2009</bib_year>
+			<bib_extra key="Adsnote">Provided by the SAO/NASA Astrophysics Data System</bib_extra>
+			<bib_extra key="Adsurl">http://adsabs.harvard.edu/abs/2009astro2010P..61W</bib_extra>
+			<bib_extra key="Archiveprefix">arXiv</bib_extra>
+			<bib_extra key="booktitle">astro2010: The Astronomy and Astrophysics Decadal Survey</bib_extra>
+			<bib_extra key="Eprint">0903.3971</bib_extra>
+			<bib_extra key="Primaryclass">astro-ph.IM</bib_extra>
+			<bib_extra key="series">Astronomy</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>ukrse2013</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>What is a Research Software Engineer?</bib_title>
+			<bib_authors>Research Software Engineers Association (UKRSE)</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2013</bib_year>
+			<bib_extra key="note">[Online; acessado em 02 de Junho de 2017]</bib_extra>
+			<bib_extra key="Url">https://ukrse.github.io/who.html</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/ReproducibilityPIManifesto.pdf</relative_filename>
+			<key>Barba2012</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi>10.6084/m9.figshare.104539.v1</bib_doi>
+			<bib_title>Reproducibility PI Manifesto</bib_title>
+			<bib_authors>Barba, Lorena A.</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2012</bib_year>
+			<bib_extra key="Month">12</bib_extra>
+			<bib_extra key="Url">https://figshare.com/articles/Reproducibility_PI_Manifesto/104539</bib_extra>
+		</doc>
+		<doc>
+			<filename></filename>
+			<key>OntoSoft2016</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>What is a Geoscience Paper of the Future – The Geoscience Papers of the Future Initiative</bib_title>
+			<bib_authors>OntoSoft</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="note">[Online; Acessado em 02 de Junho de 2017]</bib_extra>
+			<bib_extra key="Url">http://www.scientificpaperofthefuture.org/gpf/what-is-a-gpf</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/The FAIR Guiding Principles for scientific data management and stewardship.pdf</relative_filename>
+			<key>wilkinson2016fair</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>The FAIR Guiding Principles for scientific data management and stewardship</bib_title>
+			<bib_authors>Wilkinson, Mark D. and Dumontier, Michel and Aalbersberg, IJsbrand Jan and Appleton, Gabrielle and Axton, Myles and Baak, Arie and Blomberg, Niklas and Boiten, Jan-Willem and da Silva Santos, Luiz Bonino and Bourne, Philip E. and others,</bib_authors>
+			<bib_journal>Scientific data</bib_journal>
+			<bib_volume>3</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Publisher">Nature Publishing Group</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software sustainability: The modern tower of Babel.pdf</relative_filename>
+			<key>venters2014software</key>
+			<notes></notes>
+			<bib_type>inproceedings</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software sustainability: The modern tower of Babel</bib_title>
+			<bib_authors>Venters, Colin C. and Jay, Caroline and Lau, L. M. S. and Griffiths, Michael K. and Holmes, Violeta and Ward, Rupert R. and Austin, Jim and Dibsdale, Charlie E. and Xu, Jie</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume>1216</bib_volume>
+			<bib_number></bib_number>
+			<bib_pages>7-12</bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="Author:corp">CEUR</bib_extra>
+			<bib_extra key="booktitle">CEUR Workshop Proceedings</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software in the scientific literature: Problems with seeing, finding, and using software mentioned in the biology literature.pdf</relative_filename>
+			<key>howison2016software</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi>10.1002/asi.23538</bib_doi>
+			<bib_title>Software in the scientific literature: Problems with seeing, finding, and using software mentioned in the biology literature</bib_title>
+			<bib_authors>Howison, James and Bullard, Julia</bib_authors>
+			<bib_journal>Journal of the Association for Information Science and Technology</bib_journal>
+			<bib_volume>67</bib_volume>
+			<bib_number>9</bib_number>
+			<bib_pages>2137-2155</bib_pages>
+			<bib_year>2016</bib_year>
+			<bib_extra key="Issn">2330-1643</bib_extra>
+			<bib_extra key="Keywords">biology, journals, bibliographic citations</bib_extra>
+			<bib_extra key="Url">http://dx.doi.org/10.1002/asi.23538</bib_extra>
+		</doc>
+		<doc>
+			<relative_filename>Papers/Software Use in Astronomy: an Informal Survey.pdf</relative_filename>
+			<key>momcheva2015software</key>
+			<notes></notes>
+			<bib_type>article</bib_type>
+			<bib_doi></bib_doi>
+			<bib_title>Software use in astronomy: an informal survey</bib_title>
+			<bib_authors>Momcheva, Ivelina and Tollerud, Erik</bib_authors>
+			<bib_journal>arXiv preprint arXiv:1507.03989</bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2015</bib_year>
+		</doc>
+		<doc>
+			<relative_filename>Papers/UK Research Software Survey 2014.xlsx</relative_filename>
+			<key>hettrick_2014_14809</key>
+			<notes></notes>
+			<bib_type>misc</bib_type>
+			<bib_doi>10.5281/zenodo.14809</bib_doi>
+			<bib_title>UK Research Software Survey 2014</bib_title>
+			<bib_authors>Hettrick, Simon and Antonioletti, Mario and Carr, Les and Chue Hong, Neil and Crouch, Stephen and De Roure, David and Emsley, Iain and Goble, Carole and Hay, Alexander and Inupakutika, Devasena and Jackson, Mike and Nenadic, Aleksandra and Parkinson, Tim and Parsons, Mark I. and Pawlik, Aleksandra and Peru, Giacomo and Proeme, Arno and Robinson, John and Sufi, Shoaib</bib_authors>
+			<bib_journal></bib_journal>
+			<bib_volume></bib_volume>
+			<bib_number></bib_number>
+			<bib_pages></bib_pages>
+			<bib_year>2014</bib_year>
+			<bib_extra key="month">dec</bib_extra>
+			<bib_extra key="Url">https://doi.org/10.5281/zenodo.14809</bib_extra>
 		</doc>
 	</doclist>
 </library>
